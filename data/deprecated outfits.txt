@@ -19,6 +19,7 @@ outfit "Korath Tek'far Reactor"
 	"outfit space" -25
 	"energy generation" 3.9
 	"heat generation" 7.3
+	"unplunderable" 1
 	description "This is a miniature nuclear reactor, used by the Korath to power their fighters."
 
 outfit "Korath Tek'nel Reactor"
@@ -29,6 +30,7 @@ outfit "Korath Tek'nel Reactor"
 	"outfit space" -140
 	"energy generation" 27.1
 	"heat generation" 80
+	"unplunderable" 1
 	description "This massive reactor was designed by the Korath to meet the power needs of their largest ships."
 
 
@@ -40,6 +42,7 @@ outfit "Korath Shield Generator"
 	"outfit space" -52
 	"shield generation" 2.4
 	"shield energy" 2.4
+	"unplunderable" 1
 	description "Korath fighters are not able to recharge their shields, but their larger ships are equipped with one of these."
 
 outfit "Korath Heat Shunt"
@@ -49,6 +52,7 @@ outfit "Korath Heat Shunt"
 	"mass" 34
 	"outfit space" -34
 	"cooling" 78
+	"unplunderable" 1
 	description "Korath weapons generate extreme amounts of heat, and the cooling systems they require are massive."
 
 outfit "Korath Ark'torbal Thruster"

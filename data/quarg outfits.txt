@@ -15,6 +15,7 @@ outfit "Nanotech Battery"
 	thumbnail "outfit/quarg nanotech battery"
 	"mass" 50
 	"outfit space" -50
+	"unplunderable" 1
 	"energy capacity" 30000
 
 outfit "Antimatter Core"
@@ -25,6 +26,7 @@ outfit "Antimatter Core"
 	"outfit space" -80
 	"energy generation" 80
 	"heat generation" 20
+	"unplunderable" 1
 	"unplunderable" 1
 	
 
@@ -130,4 +132,5 @@ outfit "Quantum Shield Generator"
 	"mass" 120
 	"outfit space" -120
 	"shield generation" 10
+	"unplunderable" 1
 	"shield energy" 10

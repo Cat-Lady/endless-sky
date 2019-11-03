@@ -178,6 +178,7 @@ outfit "EMP Torpedo"
 	thumbnail "outfit/emp torpedo"
 	"mass" 1
 	"emp torpedo capacity" -1
+	"unplunderable" 1
 	description "This is ammunition for the EMP Torpedo Bay, a weapon that is manufactured by the Remnant."
 
 outfit "EMP Torpedo Bay"
@@ -270,6 +271,7 @@ outfit "Crystal Capacitor"
 	"energy capacity" 3400
 	"energy consumption" .4
 	"heat generation" .4
+	"unplunderable" 1
 	description "These crystals, mined on the Remnant planet Viminal, can store a surprising amount of power in a compact form. Crystals pure enough to be used in such a manner are hard to find, however."
 	description "	Also, the capacitors tend to leak small amounts of energy, in the form of excess heat."
 
@@ -283,6 +285,7 @@ outfit "Millennium Cell"
 	"outfit space" -29
 	"energy generation" 3.6
 	"heat generation" 6.0
+	"unplunderable" 1
 	description "This quite compact radiothermal generator uses isotopes so radioactive, and so tightly packed together, that it could almost be classified as a nuclear reactor."
 
 outfit "Epoch Cell"
@@ -295,6 +298,7 @@ outfit "Epoch Cell"
 	"outfit space" -98
 	"energy generation" 12.7
 	"heat generation" 19.8
+	"unplunderable" 1
 	description "Efficient Remnant technology ensures that nearly all the heat produced by this generator's radioisotopes is converted into electricity instead of becoming waste heat."
 
 outfit "Aeon Cell"
@@ -307,6 +311,7 @@ outfit "Aeon Cell"
 	"outfit space" -160
 	"energy generation" 21.9
 	"heat generation" 31.5
+	"unplunderable" 1
 	description "The early Remnant engineers did not trust the finicky and unpredictable nuclear reactors that were then in use in human space, so they instead focused on perfecting the art of radioisotope thermoelectric power."
 
 outfit "Thermoelectric Cooler"
@@ -319,6 +324,7 @@ outfit "Thermoelectric Cooler"
 	"outfit space" -4
 	"active cooling" 7
 	"cooling energy" .4
+	"unplunderable" 1
 	description "This cooler is actually just one of the power-generating elements of a Millennium Cell, but wired so it can run in reverse: consuming electricity in order to transfer heat from a ship's systems to its exterior."
 
 outfit "Emergency Ramscoop"

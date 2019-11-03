@@ -230,6 +230,7 @@ outfit "Korath Piercer"
 	thumbnail "outfit/piercer"
 	"mass" .3
 	"piercer capacity" -1
+	"unplunderable" 1
 	description "This missile is fired from a Korath Piercer Launcher."
 
 outfit "Korath Piercer Rack"
@@ -382,6 +383,7 @@ outfit "Korath Mine"
 	thumbnail "outfit/korath mine"
 	"mass" .7
 	"minelayer capacity" -1
+	"unplunderable" 1
 	description "This is ammunition for a Korath Minelayer. Each mine splits into eleven submunitions after it is deployed."
 
 outfit "Korath Mine Rack"

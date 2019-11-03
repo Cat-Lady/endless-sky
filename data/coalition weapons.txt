@@ -141,6 +141,7 @@ outfit "Finisher Torpedo"
 	thumbnail "outfit/finisher"
 	"mass" .5
 	"finisher capacity" -1
+	"unplunderable" 1
 	description `This extremely powerful but also expensive missile is ammunition for the Heliarch Finisher Pod.`
 
 effect "finisher sparks"
