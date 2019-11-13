@@ -11,7 +11,7 @@
 outfit "Cooling Ducts"
 	plural "Cooling Ducts"
 	category "Systems"
-	cost 10000
+	"cost" 10000
 	thumbnail "outfit/cooling ducts"
 	"mass" 5
 	"outfit space" -5
@@ -23,7 +23,7 @@ outfit "Cooling Ducts"
 
 outfit "Water Coolant System"
 	category "Systems"
-	cost 25000
+	"cost" 25000
 	thumbnail "outfit/water cooling"
 	"mass" 10
 	"outfit space" -10
@@ -35,7 +35,7 @@ outfit "Water Coolant System"
 
 outfit "Liquid Nitrogen Cooler"
 	category "Systems"
-	cost 60000
+	"cost" 60000
 	thumbnail "outfit/liquid nitrogen"
 	"mass" 20
 	"outfit space" -20
@@ -47,7 +47,7 @@ outfit "Liquid Nitrogen Cooler"
 
 outfit "Liquid Helium Cooler"
 	category "Systems"
-	cost 150000
+	"cost" 150000
 	thumbnail "outfit/liquid helium"
 	"mass" 40
 	"outfit space" -40
@@ -60,7 +60,7 @@ outfit "Liquid Helium Cooler"
 
 outfit "D14-RN Shield Generator"
 	category "Systems"
-	cost 20000
+	"cost" 20000
 	thumbnail "outfit/tiny shield"
 	"mass" 15
 	"outfit space" -15
@@ -73,7 +73,7 @@ outfit "D14-RN Shield Generator"
 
 outfit "D23-QP Shield Generator"
 	category "Systems"
-	cost 35000
+	"cost" 35000
 	thumbnail "outfit/small shield"
 	"mass" 22
 	"outfit space" -22
@@ -86,7 +86,7 @@ outfit "D23-QP Shield Generator"
 
 outfit "D41-HY Shield Generator"
 	category "Systems"
-	cost 65000
+	"cost" 65000
 	thumbnail "outfit/medium shield"
 	"mass" 30
 	"outfit space" -30
@@ -99,7 +99,7 @@ outfit "D41-HY Shield Generator"
 
 outfit "D67-TM Shield Generator"
 	category "Systems"
-	cost 120000
+	"cost" 120000
 	thumbnail "outfit/large shield"
 	"mass" 45
 	"outfit space" -45
@@ -112,7 +112,7 @@ outfit "D67-TM Shield Generator"
 
 outfit "D94-YV Shield Generator"
 	category "Systems"
-	cost 200000
+	"cost" 200000
 	thumbnail "outfit/huge shield"
 	"mass" 60
 	"outfit space" -60
@@ -125,7 +125,7 @@ outfit "D94-YV Shield Generator"
 
 outfit "S-270 Regenerator"
 	category "Systems"
-	cost 220000
+	"cost" 220000
 	thumbnail "outfit/small regenerator"
 	"mass" 12
 	"outfit space" -12
@@ -140,7 +140,7 @@ outfit "S-270 Regenerator"
 
 outfit "S-970 Regenerator"
 	category "Systems"
-	cost 800000
+	"cost" 800000
 	thumbnail "outfit/large regenerator"
 	"mass" 37
 	"outfit space" -37
@@ -156,7 +156,7 @@ outfit "S-970 Regenerator"
 
 outfit "Small Radar Jammer"
 	category "Systems"
-	cost 24000
+	"cost" 24000
 	thumbnail "outfit/small radar jammer"
 	"mass" 4
 	"outfit space" -4
@@ -167,7 +167,7 @@ outfit "Small Radar Jammer"
 
 outfit "Large Radar Jammer"
 	category "Systems"
-	cost 138000
+	"cost" 138000
 	thumbnail "outfit/large radar jammer"
 	"mass" 14
 	"outfit space" -14
@@ -179,7 +179,7 @@ outfit "Large Radar Jammer"
 
 outfit "Ramscoop"
 	category "Systems"
-	cost 60000
+	"cost" 60000
 	thumbnail "outfit/ramscoop"
 	"mass" 10
 	"outfit space" -10
@@ -191,7 +191,7 @@ outfit "Ramscoop"
 
 outfit "Catalytic Ramscoop"
 	category "Systems"
-	cost 320000
+	"cost" 320000
 	thumbnail "outfit/catalytic ramscoop"
 	"mass" 16
 	"outfit space" -16
@@ -202,7 +202,7 @@ outfit "Catalytic Ramscoop"
 
 outfit "Hyperdrive"
 	category "Systems"
-	cost 50000
+	"cost" 50000
 	thumbnail "outfit/hyperdrive"
 	"mass" 20
 	"outfit space" -20
@@ -217,7 +217,7 @@ outfit "Hyperdrive"
 
 outfit "Scram Drive"
 	category "Systems"
-	cost 90000
+	"cost" 90000
 	thumbnail "outfit/scram drive"
 	"mass" 30
 	"outfit space" -30
@@ -231,7 +231,7 @@ outfit "Scram Drive"
 
 outfit "Jump Drive"
 	category "Systems"
-	cost 1000000
+	"cost" 1000000
 	thumbnail "outfit/jump drive"
 	"mass" 20
 	"outfit space" -20
@@ -245,7 +245,7 @@ outfit "Jump Drive"
 
 outfit "Jump Drive (Broken)"
 	category "Systems"
-	cost 25000
+	"cost" 25000
 	thumbnail "outfit/jump drive (broken)"
 	"mass" 20
 	"outfit space" -20
@@ -257,7 +257,7 @@ outfit "Jump Drive (Broken)"
 
 outfit "Cargo Scanner"
 	category "Systems"
-	cost 8000
+	"cost" 8000
 	thumbnail "outfit/cargo scanner"
 	"mass" 1
 	"outfit space" -1
@@ -269,7 +269,7 @@ outfit "Cargo Scanner"
 
 outfit "Outfit Scanner"
 	category "Systems"
-	cost 24000
+	"cost" 24000
 	thumbnail "outfit/outfit scanner"
 	"mass" 2
 	"outfit space" -2
@@ -281,7 +281,7 @@ outfit "Outfit Scanner"
 
 outfit "Asteroid Scanner"
 	category "Systems"
-	cost 122000
+	"cost" 122000
 	thumbnail "outfit/asteroid scanner"
 	"mass" 6
 	"outfit space" -6
@@ -292,7 +292,7 @@ outfit "Asteroid Scanner"
 
 outfit "Tactical Scanner"
 	category "Systems"
-	cost 144000
+	"cost" 144000
 	thumbnail "outfit/tactical scanner"
 	"mass" 4
 	"outfit space" -4
@@ -303,7 +303,7 @@ outfit "Tactical Scanner"
 
 outfit "Surveillance Pod"
 	category "Systems"
-	cost 122500
+	"cost" 122500
 	thumbnail "outfit/surveillance pod"
 	"mass" 5
 	"outfit space" -5
@@ -320,7 +320,7 @@ outfit "Surveillance Pod"
 
 outfit "Cloaking Device"
 	category "Systems"
-	cost 1200000
+	"cost" 1200000
 	"mass" 10
 	"outfit space" -10
 	"cloak" .01
@@ -334,7 +334,7 @@ outfit "Cloaking Device"
 
 outfit "Outfits Expansion"
 	category "Systems"
-	cost 50000
+	"cost" 50000
 	thumbnail "outfit/blue screwdriver"
 	"mass" 5
 	"outfit space" 15
@@ -347,7 +347,7 @@ outfit "Outfits Expansion"
 
 outfit "Cargo Expansion"
 	category "Systems"
-	cost 30000
+	"cost" 30000
 	thumbnail "outfit/red screwdriver"
 	"mass" 5
 	"cargo space" 15
@@ -359,7 +359,7 @@ outfit "Cargo Expansion"
 
 outfit "Bunk Room"
 	category "Systems"
-	cost 40000
+	"cost" 40000
 	thumbnail "outfit/bunk room"
 	"mass" 5
 	"bunks" 4
@@ -371,7 +371,7 @@ outfit "Bunk Room"
 
 outfit "Small Bunk Room"
 	category "Systems"
-	cost 20000
+	"cost" 20000
 	thumbnail "outfit/small bunk room"
 	"mass" 3
 	"bunks" 2
@@ -383,7 +383,7 @@ outfit "Small Bunk Room"
 
 outfit "Brig"
 	category "Systems"
-	cost 40000
+	"cost" 40000
 	thumbnail "outfit/brig"
 	"mass" 3
 	"outfit space" -3
@@ -394,7 +394,7 @@ outfit "Brig"
 
 outfit "Luxury Accommodations"
 	category "Systems"
-	cost 250000
+	"cost" 250000
 	thumbnail "outfit/luxury accommodations"
 	"mass" 10
 	"outfit space" -10
@@ -405,7 +405,7 @@ outfit "Luxury Accommodations"
 
 outfit "Fuel Pod"
 	category "Systems"
-	cost 20000
+	"cost" 20000
 	thumbnail "outfit/fuel pod"
 	"mass" 8
 	"outfit space" -8
@@ -416,7 +416,7 @@ outfit "Fuel Pod"
 
 outfit "Interference Plating"
 	category "Systems"
-	cost 50000
+	"cost" 50000
 	thumbnail "outfit/interference plating"
 	"mass" 4
 	"outfit space" -4
@@ -429,7 +429,7 @@ outfit "Interference Plating"
 
 outfit "Laser Rifle"
 	category "Hand to Hand"
-	cost 8000
+	"cost" 8000
 	thumbnail "outfit/laser rifle"
 	"capture attack" .6
 	"capture defense" .8
@@ -441,7 +441,7 @@ outfit "Laser Rifle"
 outfit "Fragmentation Grenades"
 	plural "Fragmentation Grenades"
 	category "Hand to Hand"
-	cost 17000
+	"cost" 17000
 	thumbnail "outfit/fragmentation grenades"
 	"capture attack" 1.3
 	"capture defense" .3
@@ -452,7 +452,7 @@ outfit "Fragmentation Grenades"
 
 outfit "Security Station"
 	category "Hand to Hand"
-	cost 42000
+	"cost" 42000
 	thumbnail "outfit/security station"
 	"mass" 2
 	"outfit space" -2
@@ -465,7 +465,7 @@ outfit "Security Station"
 outfit "Nerve Gas"
 	plural "Nerve Gas"
 	category "Hand to Hand"
-	cost 75000
+	"cost" 75000
 	thumbnail "outfit/nerve gas"
 	"capture attack" 2.8
 	"capture defense" .8
@@ -478,7 +478,7 @@ outfit "Nerve Gas"
 
 outfit "Local Map"
 	category "Special"
-	cost 1000
+	"cost" 1000
 	thumbnail "outfit/map"
 	"map" 12
 	description "This data chip contains complete information on the twelve star systems closest to this one: planets, ports, governments, trade prices, available services, etc. You can get all the same information just by exploring those systems yourself, but having a map can save you from making wrong turns if you are trying to travel through new territory to reach a certain system quickly."
@@ -486,7 +486,8 @@ outfit "Local Map"
 
 outfit "Pilot's License"
 	category "Special"
-	cost 50000
+	"cost" 50000
+	"maintenance costs" 100
 	thumbnail "outfit/license"
 	description "Without a pilot's license, you cannot purchase a ship on a Republic planet. And if you buy an unlicensed ship on another planet and then bring it into Republic space, you can be fined until you cough up the money for a license. Needless to say, this policy is not terribly popular with freelance merchant captains. It is worth to note that keeping the license active is a cost of 100 credits daily, which - at least - makes you eligible for receiving one-person's worth of standard food and water rations on every spaceport in human space."
 

@@ -11,7 +11,7 @@
 outfit "Generator (Candle Class)"
 	plural "Generators (Candle Class)"
 	category "Power"
-	cost 493000
+	"cost" 493000
 	thumbnail "outfit/small korath generator"
 	"mass" 23
 	"outfit space" -23
@@ -23,7 +23,7 @@ outfit "Generator (Candle Class)"
 outfit "Generator (Furnace Class)"
 	plural "Generators (Furnace Class)"
 	category "Power"
-	cost 925000
+	"cost" 925000
 	thumbnail "outfit/medium korath generator"
 	"mass" 39
 	"outfit space" -39
@@ -35,7 +35,7 @@ outfit "Generator (Furnace Class)"
 outfit "Generator (Inferno Class)"
 	plural "Generators (Inferno Class)"
 	category "Power"
-	cost 1877000
+	"cost" 1877000
 	thumbnail "outfit/large korath generator"
 	"mass" 71
 	"outfit space" -71
@@ -46,7 +46,7 @@ outfit "Generator (Inferno Class)"
 
 outfit "Plasma Core"
 	category "Power"
-	cost 4188000
+	"cost" 4188000
 	thumbnail "outfit/plasma core"
 	"mass" 54
 	"outfit space" -54
@@ -57,7 +57,7 @@ outfit "Plasma Core"
 
 outfit "Double Plasma Core"
 	category "Power"
-	cost 9321000
+	"cost" 9321000
 	thumbnail "outfit/double plasma core"
 	"mass" 93
 	"outfit space" -93
@@ -68,7 +68,7 @@ outfit "Double Plasma Core"
 
 outfit "Triple Plasma Core"
 	category "Power"
-	cost 20460000
+	"cost" 20460000
 	thumbnail "outfit/triple plasma core"
 	"mass" 169
 	"outfit space" -169
@@ -81,7 +81,7 @@ outfit "Triple Plasma Core"
 
 outfit "Small Heat Shunt"
 	category "Systems"
-	cost 180000
+	"cost" 180000
 	thumbnail "outfit/small heat shunt"
 	"mass" 7
 	"outfit space" -7
@@ -91,7 +91,7 @@ outfit "Small Heat Shunt"
 
 outfit "Large Heat Shunt"
 	category "Systems"
-	cost 790000
+	"cost" 790000
 	thumbnail "outfit/large heat shunt"
 	"mass" 24
 	"outfit space" -24
@@ -103,7 +103,7 @@ outfit "Large Heat Shunt"
 outfit "Systems Core (Small)"
 	plural "Systems Cores (Small)"
 	category "Systems"
-	cost 1452000
+	"cost" 1452000
 	thumbnail "outfit/small systems core"
 	"mass" 31
 	"outfit space" -31
@@ -119,7 +119,7 @@ outfit "Systems Core (Small)"
 outfit "Systems Core (Medium)"
 	plural "Systems Cores (Medium)"
 	category "Systems"
-	cost 3630000
+	"cost" 3630000
 	thumbnail "outfit/medium systems core"
 	"mass" 53
 	"outfit space" -53
@@ -135,7 +135,7 @@ outfit "Systems Core (Medium)"
 outfit "Systems Core (Large)"
 	plural "Systems Cores (Large)"
 	category "Systems"
-	cost 9075000
+	"cost" 9075000
 	thumbnail "outfit/large systems core"
 	"mass" 91
 	"outfit space" -91
@@ -151,7 +151,7 @@ outfit "Systems Core (Large)"
 
 outfit "Fuel Processor"
 	category "Systems"
-	cost 400000
+	"cost" 400000
 	thumbnail "outfit/korath fuel processor"
 	"mass" 14
 	"outfit space" -14
@@ -163,7 +163,7 @@ outfit "Fuel Processor"
 
 outfit "Command Center"
 	category "Systems"
-	cost 437000
+	"cost" 437000
 	thumbnail "outfit/command center"
 	"mass" 8
 	"outfit space" -24
@@ -175,7 +175,7 @@ outfit "Command Center"
 
 outfit "Reasoning Node"
 	category "Systems"
-	cost "23000"
+	"cost" "23000"
 	thumbnail "outfit/reasoning node"
 	"mass" 1
 	"outfit space" -1
@@ -184,7 +184,7 @@ outfit "Reasoning Node"
 
 outfit "Control Transceiver"
 	category "Systems"
-	cost "7000"
+	"cost" "7000"
 	thumbnail "outfit/control transceiver"
 	"mass" 1
 	"outfit space" -1
@@ -339,7 +339,7 @@ outfit "Steering (Stellar Class)"
 	
 outfit "Korath Repeater Rifle"
 	category "Hand to Hand"
-	cost 53000
+	"cost" 53000
 	thumbnail "outfit/korath rifle"
 	"capture attack" 1.6
 	"capture defense" 2.4

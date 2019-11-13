@@ -10,7 +10,7 @@
 
 outfit "Pulse Cannon"
 	category "Guns"
-	cost 130000
+	"cost" 130000
 	thumbnail "outfit/pulse cannon"
 	"mass" 13
 	"outfit space" -13
@@ -32,7 +32,7 @@ outfit "Pulse Cannon"
 
 outfit "Pulse Turret"
 	category "Turrets"
-	cost 590000
+	"cost" 590000
 	thumbnail "outfit/pulse turret"
 	"mass" 34
 	"outfit space" -34
@@ -69,7 +69,7 @@ effect "pulse impact"
 
 outfit "Ion Cannon"
 	category "Guns"
-	cost 490000
+	"cost" 490000
 	thumbnail "outfit/ion cannon"
 	"mass" 47
 	"outfit space" -47
@@ -107,7 +107,7 @@ effect "ion impact"
 
 outfit "Railgun Slug"
 	category "Ammunition"
-	cost 60
+	"cost" 60
 	thumbnail "outfit/railslug"
 	"mass" 0.02
 	"railgun slug capacity" -1
@@ -116,7 +116,7 @@ outfit "Railgun Slug"
 
 outfit "Railgun"
 	category "Secondary Weapons"
-	cost 20000
+	"cost" 20000
 	thumbnail "outfit/railgun"
 	"mass" 4
 	"outfit space" -7
@@ -182,7 +182,7 @@ effect "rail sparks"
 
 outfit "Hai Tracker"
 	category "Ammunition"
-	cost 1000
+	"cost" 1000
 	thumbnail "outfit/hai tracker"
 	"mass" .2
 	"tracker capacity" -1
@@ -191,7 +191,7 @@ outfit "Hai Tracker"
 
 outfit "Tracker Storage Pod"
 	category "Ammunition"
-	cost 28000
+	"cost" 28000
 	thumbnail "outfit/hai tracker storage"
 	"mass" 4.4
 	"outfit space" -10
@@ -202,7 +202,7 @@ outfit "Tracker Storage Pod"
 
 outfit "Hai Tracker Pod"
 	category "Secondary Weapons"
-	cost 150000
+	"cost" 150000
 	thumbnail "outfit/hai tracker pod"
 	"mass" 8
 	"outfit space" -19
@@ -271,7 +271,7 @@ effect "tracker cloud"
 
 outfit "Bullfrog Anti-Missile"
 	category "Turrets"
-	cost 55000
+	"cost" 55000
 	thumbnail "outfit/anti-missile hai"
 	"mass" 10
 	"outfit space" -10
@@ -293,7 +293,7 @@ outfit "Bullfrog Anti-Missile"
 
 outfit "Chameleon Anti-Missile"
 	category "Turrets"
-	cost 140000
+	"cost" 140000
 	thumbnail "outfit/heavy anti-missile hai"
 	"mass" 22
 	"outfit space" -22
@@ -316,7 +316,7 @@ outfit "Chameleon Anti-Missile"
 
 outfit "Hai Corundum Regenerator"
 	category "Systems"
-	cost 300000
+	"cost" 300000
 	thumbnail "outfit/small regenerator hai"
 	"mass" 16
 	"outfit space" -16
@@ -329,7 +329,7 @@ outfit "Hai Corundum Regenerator"
 
 outfit "Hai Diamond Regenerator"
 	category "Systems"
-	cost 1150000
+	"cost" 1150000
 	thumbnail "outfit/large regenerator hai"
 	"mass" 49
 	"outfit space" -49
@@ -342,7 +342,7 @@ outfit "Hai Diamond Regenerator"
 
 outfit "Hai Williwaw Cooling"
 	category "Systems"
-	cost 15000
+	"cost" 15000
 	thumbnail "outfit/cooling ducts hai"
 	"mass" 8
 	"outfit space" -8
@@ -353,7 +353,7 @@ outfit "Hai Williwaw Cooling"
 
 outfit "Quantum Keystone"
 	category "Systems"
-	cost 12000
+	"cost" 12000
 	thumbnail "outfit/keystone"
 	"mass" 1
 	"outfit space" -1
@@ -364,7 +364,7 @@ outfit "Quantum Keystone"
 outfit "Hai Chasm Batteries"
 	plural "Hai Chasm Batteries"
 	category "Power"
-	cost 18000
+	"cost" 18000
 	thumbnail "outfit/tiny battery hai"
 	"mass" 5
 	"outfit space" -5
@@ -375,7 +375,7 @@ outfit "Hai Chasm Batteries"
 outfit "Hai Fissure Batteries"
 	plural "Hai Fissure Batteries"
 	category "Power"
-	cost 22000
+	"cost" 22000
 	thumbnail "outfit/small battery hai"
 	"mass" 15
 	"outfit space" -15
@@ -386,7 +386,7 @@ outfit "Hai Fissure Batteries"
 outfit "Hai Gorge Batteries"
 	plural "Hai Gorge Batteries"
 	category "Power"
-	cost 55000
+	"cost" 55000
 	thumbnail "outfit/medium battery hai"
 	"mass" 30
 	"outfit space" -30
@@ -397,7 +397,7 @@ outfit "Hai Gorge Batteries"
 outfit "Hai Ravine Batteries"
 	plural "Hai Ravine Batteries"
 	category "Power"
-	cost 124000
+	"cost" 124000
 	thumbnail "outfit/large battery hai"
 	"mass" 60
 	"outfit space" -60
@@ -408,7 +408,7 @@ outfit "Hai Ravine Batteries"
 outfit "Hai Valley Batteries"
 	plural "Hai Valley Batteries"
 	category "Power"
-	cost 300000
+	"cost" 300000
 	thumbnail "outfit/huge battery hai"
 	"mass" 120
 	"outfit space" -120
@@ -419,7 +419,7 @@ outfit "Hai Valley Batteries"
 
 outfit "Boulder Reactor"
 	category "Power"
-	cost 5750000
+	"cost" 5750000
 	thumbnail "outfit/fusion hai"
 	"mass" 90
 	"outfit space" -90
@@ -430,7 +430,7 @@ outfit "Boulder Reactor"
 
 outfit "Geode Reactor"
 	category "Power"
-	cost 1750000
+	"cost" 1750000
 	thumbnail "outfit/fission hai"
 	"mass" 58
 	"outfit space" -58
@@ -441,7 +441,7 @@ outfit "Geode Reactor"
 
 outfit "Pebble Core"
 	category "Power"
-	cost 1050000
+	"cost" 1050000
 	thumbnail "outfit/dwarf core hai"
 	"mass" 32
 	"outfit space" -32
@@ -452,7 +452,7 @@ outfit "Pebble Core"
 
 outfit "Sand Cell"
 	category "Power"
-	cost 45000
+	"cost" 45000
 	thumbnail "outfit/fuel cell hai"
 	"mass" 24
 	"outfit space" -24
@@ -618,7 +618,7 @@ outfit `"Bufaer" Atomic Steering`
 
 outfit "Pulse Rifle"
 	category "Hand to Hand"
-	cost 11000
+	"cost" 11000
 	thumbnail "outfit/hai rifle"
 	"capture attack" .7
 	"capture defense" 1.0

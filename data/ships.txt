@@ -616,7 +616,7 @@ ship "Boxwing"
 	thumbnail "thumbnail/boxwing"
 	attributes
 		category "Fighter"
-		cost 369000
+		"cost" 369000
 		"shields" 400
 		"hull" 800
 		"required crew" 1
