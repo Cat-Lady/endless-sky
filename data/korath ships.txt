@@ -188,7 +188,7 @@ ship "Korath World-Ship"
 	thumbnail "thumbnail/world-ship a"
 	attributes
 		category "Heavy Freighter"
-		cost 27690000
+		"cost" 27690000
 		shields 47000
 		hull 34000
 		"required crew" 794

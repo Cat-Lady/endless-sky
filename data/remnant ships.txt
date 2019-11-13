@@ -18,7 +18,7 @@ ship "Albatross"
 		category "Heavy Warship"
 		licenses
 			"Remnant Capital"
-		cost 20250000
+		"cost" 20250000
 		"shields" 34200
 		"hull" 12600
 		"required crew" 44
@@ -206,7 +206,7 @@ ship "Gascraft"
 	thumbnail "thumbnail/gascraft"
 	attributes
 		category Transport
-		cost 530000
+		"cost" 530000
 		"shields" 800
 		"hull" 1500
 		"required crew" 1
@@ -251,7 +251,7 @@ ship "Gull"
 		category "Light Freighter"
 		licenses
 			Remnant
-		cost 9500000
+		"cost" 9500000
 		"shields" 6500
 		"hull" 2500
 		"required crew" 3
@@ -458,7 +458,7 @@ ship "Pelican"
 		category "Heavy Freighter"
 		licenses
 			"Remnant Capital"
-		cost 9900000
+		"cost" 9900000
 		"shields" 11300
 		"hull" 5700
 		"required crew" 14
@@ -522,7 +522,7 @@ ship "Penguin"
 	thumbnail "thumbnail/penguin"
 	attributes
 		category "Transport"
-		cost 2530000
+		"cost" 2530000
 		"shields" 3000
 		"hull" 1500
 		"required crew" 1
@@ -635,7 +635,7 @@ ship "Starling"
 		category "Light Warship"
 		licenses
 			Remnant
-		cost 8800000
+		"cost" 8800000
 		"shields" 8800
 		"hull" 4900
 		"required crew" 6

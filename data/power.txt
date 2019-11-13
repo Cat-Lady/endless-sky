@@ -10,7 +10,7 @@
 
 outfit "Supercapacitor"
 	category "Power"
-	cost 25000
+	"cost" 25000
 	thumbnail "outfit/supercapacitor"
 	"mass" 2
 	"outfit space" -2
@@ -20,7 +20,7 @@ outfit "Supercapacitor"
 
 outfit "LP036a Battery Pack"
 	category "Power"
-	cost 12000
+	"cost" 12000
 	thumbnail "outfit/tiny battery"
 	"mass" 10
 	"outfit space" -10
@@ -30,7 +30,7 @@ outfit "LP036a Battery Pack"
 
 outfit "LP072a Battery Pack"
 	category "Power"
-	cost 30000
+	"cost" 30000
 	thumbnail "outfit/small battery"
 	"mass" 20
 	"outfit space" -20
@@ -40,7 +40,7 @@ outfit "LP072a Battery Pack"
 
 outfit "LP144a Battery Pack"
 	category "Power"
-	cost 67000
+	"cost" 67000
 	thumbnail "outfit/medium battery"
 	"mass" 40
 	"outfit space" -40
@@ -50,7 +50,7 @@ outfit "LP144a Battery Pack"
 
 outfit "LP288a Battery Pack"
 	category "Power"
-	cost 150000
+	"cost" 150000
 	thumbnail "outfit/large battery"
 	"mass" 80
 	"outfit space" -80
@@ -60,7 +60,7 @@ outfit "LP288a Battery Pack"
 
 outfit "LP576a Battery Pack"
 	category "Power"
-	cost 380000
+	"cost" 380000
 	thumbnail "outfit/huge battery"
 	"mass" 160
 	"outfit space" -160
@@ -71,7 +71,7 @@ outfit "LP576a Battery Pack"
 
 outfit "KP-6 Photovoltaic Panel"
 	category "Power"
-	cost 10000
+	"cost" 10000
 	thumbnail "outfit/tiny photovoltaic"
 	"mass" 3
 	"outfit space" -3
@@ -80,7 +80,7 @@ outfit "KP-6 Photovoltaic Panel"
 
 outfit "KP-6 Photovoltaic Array"
 	category "Power"
-	cost 90000
+	"cost" 90000
 	thumbnail "outfit/small photovoltaic"
 	"mass" 24
 	"outfit space" -24
@@ -90,7 +90,7 @@ outfit "KP-6 Photovoltaic Array"
 
 outfit "nGVF-AA Fuel Cell"
 	category "Power"
-	cost 40000
+	"cost" 40000
 	thumbnail "outfit/tiny fuel cell"
 	"mass" 20
 	"outfit space" -20
@@ -101,7 +101,7 @@ outfit "nGVF-AA Fuel Cell"
 
 outfit "nGVF-BB Fuel Cell"
 	category "Power"
-	cost 47000
+	"cost" 47000
 	thumbnail "outfit/small fuel cell"
 	"mass" 30
 	"outfit space" -30
@@ -112,7 +112,7 @@ outfit "nGVF-BB Fuel Cell"
 
 outfit "nGVF-CC Fuel Cell"
 	category "Power"
-	cost 72000
+	"cost" 72000
 	thumbnail "outfit/medium fuel cell"
 	"mass" 40
 	"outfit space" -40
@@ -123,7 +123,7 @@ outfit "nGVF-CC Fuel Cell"
 
 outfit "nGVF-DD Fuel Cell"
 	category "Power"
-	cost 118000
+	"cost" 118000
 	thumbnail "outfit/large fuel cell"
 	"mass" 60
 	"outfit space" -60
@@ -134,7 +134,7 @@ outfit "nGVF-DD Fuel Cell"
 
 outfit "nGVF-EE Fuel Cell"
 	category "Power"
-	cost 177000
+	"cost" 177000
 	thumbnail "outfit/huge fuel cell"
 	"mass" 80
 	"outfit space" -80
@@ -146,7 +146,7 @@ outfit "nGVF-EE Fuel Cell"
 
 outfit "RT-I Radiothermal"
 	category "Power"
-	cost 300000
+	"cost" 300000
 	thumbnail "outfit/small radiothermal"
 	"mass" 45
 	"outfit space" -45
@@ -157,7 +157,7 @@ outfit "RT-I Radiothermal"
 
 outfit "S3 Thermionic"
 	category "Power"
-	cost 360000
+	"cost" 360000
 	thumbnail "outfit/small thermionic"
 	"mass" 55
 	"outfit space" -55
@@ -168,7 +168,7 @@ outfit "S3 Thermionic"
 
 outfit "NT-200 Nucleovoltaic"
 	category "Power"
-	cost 570000
+	"cost" 570000
 	thumbnail "outfit/small nucleovoltaic"
 	"mass" 65
 	"outfit space" -65
@@ -180,7 +180,7 @@ outfit "NT-200 Nucleovoltaic"
 
 outfit "Dwarf Core"
 	category "Power"
-	cost 800000
+	"cost" 800000
 	thumbnail "outfit/dwarf core"
 	"mass" 36
 	"outfit space" -36
@@ -191,7 +191,7 @@ outfit "Dwarf Core"
 
 outfit "Fission Reactor"
 	category "Power"
-	cost 1500000
+	"cost" 1500000
 	thumbnail "outfit/fission"
 	"mass" 65
 	"outfit space" -65
@@ -202,7 +202,7 @@ outfit "Fission Reactor"
 
 outfit "Breeder Reactor"
 	category "Power"
-	cost 2500000
+	"cost" 2500000
 	thumbnail "outfit/breeder"
 	"mass" 80
 	"outfit space" -80
@@ -213,7 +213,7 @@ outfit "Breeder Reactor"
 
 outfit "Fusion Reactor"
 	category "Power"
-	cost 5000000
+	"cost" 5000000
 	thumbnail "outfit/fusion"
 	"mass" 100
 	"outfit space" -100
@@ -224,7 +224,7 @@ outfit "Fusion Reactor"
 
 outfit "Armageddon Core"
 	category "Power"
-	cost 9000000
+	"cost" 9000000
 	thumbnail "outfit/core"
 	"mass" 130
 	"outfit space" -130
@@ -235,7 +235,7 @@ outfit "Armageddon Core"
 
 outfit "Stack Core"
 	category "Power"
-	cost 4500000
+	"cost" 4500000
 	thumbnail "outfit/stack core"
 	"mass" 140
 	"outfit space" -140

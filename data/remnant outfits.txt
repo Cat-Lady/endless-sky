@@ -14,7 +14,7 @@ outfit "Inhibitor Cannon"
 	category "Guns"
 	licenses
 		Remnant
-	cost 471000
+	"cost" 471000
 	thumbnail "outfit/inhibitor cannon"
 	"mass" 16
 	"outfit space" -16
@@ -56,7 +56,7 @@ outfit "Thrasher Cannon"
 	category "Guns"
 	licenses
 		Remnant
-	cost 218000
+	"cost" 218000
 	thumbnail "outfit/thrasher cannon"
 	"mass" 10
 	"outfit space" -10
@@ -94,7 +94,7 @@ outfit "Thrasher Turret"
 	category "Turrets"
 	licenses
 		Remnant
-	cost 980000
+	"cost" 980000
 	thumbnail "outfit/thrasher turret"
 	"mass" 49
 	"outfit space" -49
@@ -126,7 +126,7 @@ outfit "Point Defense Turret"
 	category "Turrets"
 	licenses
 		Remnant
-	cost 1120000
+	"cost" 1120000
 	thumbnail "outfit/point defense"
 	"mass" 33
 	"outfit space" -33
@@ -174,7 +174,7 @@ outfit "EMP Torpedo"
 	category "Ammunition"
 	licenses
 		Remnant
-	cost 4400
+	"cost" 4400
 	thumbnail "outfit/emp torpedo"
 	"mass" 1
 	"emp torpedo capacity" -1
@@ -185,7 +185,7 @@ outfit "EMP Torpedo Bay"
 	category "Secondary Weapons"
 	licenses
 		Remnant
-	cost 583000
+	"cost" 583000
 	thumbnail "outfit/emp torpedo bay"
 	"mass" 9
 	"outfit space" -18
@@ -264,7 +264,7 @@ outfit "Crystal Capacitor"
 	category "Power"
 	licenses
 		Remnant
-	cost 113000
+	"cost" 113000
 	thumbnail "outfit/crystal capacitor"
 	"mass" 12
 	"outfit space" -12
@@ -279,7 +279,7 @@ outfit "Millennium Cell"
 	category "Power"
 	licenses
 		Remnant
-	cost 553000
+	"cost" 553000
 	thumbnail "outfit/millennium cell"
 	"mass" 29
 	"outfit space" -29
@@ -292,7 +292,7 @@ outfit "Epoch Cell"
 	category "Power"
 	licenses
 		Remnant
-	cost 2123000
+	"cost" 2123000
 	thumbnail "outfit/epoch cell"
 	"mass" 98
 	"outfit space" -98
@@ -305,7 +305,7 @@ outfit "Aeon Cell"
 	category "Power"
 	licenses
 		Remnant
-	cost 4384000
+	"cost" 4384000
 	thumbnail "outfit/aeon cell"
 	"mass" 160
 	"outfit space" -160
@@ -318,7 +318,7 @@ outfit "Thermoelectric Cooler"
 	category "Systems"
 	licenses
 		Remnant
-	cost 100000
+	"cost" 100000
 	thumbnail "outfit/thermoelectric cooler"
 	"mass" 4
 	"outfit space" -4
@@ -331,7 +331,7 @@ outfit "Emergency Ramscoop"
 	category "Systems"
 	licenses
 		Remnant
-	cost 72000
+	"cost" 72000
 	thumbnail "outfit/emergency ramscoop"
 	"mass" 4
 	"outfit space" -4
@@ -340,7 +340,7 @@ outfit "Emergency Ramscoop"
 
 outfit "Quantum Key Stone"
 	category "Systems"
-	cost 240000
+	"cost" 240000
 	thumbnail "outfit/keystone"
 	"mass" 1
 	"outfit space" -1
@@ -351,7 +351,7 @@ outfit "Salvage Scanner"
 	category "Systems"
 	licenses
 		Remnant
-	cost 410000
+	"cost" 410000
 	thumbnail "outfit/salvage scanner"
 	"mass" 7
 	"outfit space" -7
@@ -482,7 +482,7 @@ outfit "Tuning Rifle"
 	category "Hand to Hand"
 	licenses
 		Remnant
-	cost 22000
+	"cost" 22000
 	thumbnail "outfit/remnant rifle"
 	"capture attack" 1.2
 	"capture defense" 1.8
@@ -493,7 +493,7 @@ outfit "Void Rifle"
 	category "Special"
 	licenses
 		Remnant
-	cost 1000000
+	"cost" 1000000
 	thumbnail "outfit/void rifle"
 	"capture attack" 20
 	"capture defense" 20

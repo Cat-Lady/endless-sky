@@ -12,7 +12,7 @@ outfit "Small Collector Module"
 	category "Power"
 	licenses
 		Coalition
-	cost 60000
+	"cost" 60000
 	thumbnail "outfit/small collector module"
 	"mass" 8
 	"outfit space" -8
@@ -24,7 +24,7 @@ outfit "Large Collector Module"
 	category "Power"
 	licenses
 		Coalition
-	cost 300000
+	"cost" 300000
 	thumbnail "outfit/large collector module"
 	"mass" 28
 	"outfit space" -28
@@ -36,7 +36,7 @@ outfit "Small Reactor Module"
 	category "Power"
 	licenses
 		Heliarch
-	cost 5497000
+	"cost" 5497000
 	thumbnail "outfit/small reactor module"
 	"mass" 42
 	"outfit space" -42
@@ -49,7 +49,7 @@ outfit "Large Reactor Module"
 	category "Power"
 	licenses
 		Heliarch
-	cost 17754000
+	"cost" 17754000
 	thumbnail "outfit/large reactor module"
 	"mass" 98
 	"outfit space" -98
@@ -62,7 +62,7 @@ outfit "Small Battery Module"
 	category "Power"
 	licenses
 		Coalition
-	cost 44000
+	"cost" 44000
 	thumbnail "outfit/small battery module"
 	"mass" 4
 	"outfit space" -4
@@ -74,7 +74,7 @@ outfit "Large Battery Module"
 	category "Power"
 	licenses
 		Coalition
-	cost 340000
+	"cost" 340000
 	thumbnail "outfit/large battery module"
 	"mass" 18
 	"outfit space" -18
@@ -87,7 +87,7 @@ outfit "Small Shield Module"
 	category "Systems"
 	licenses
 		Coalition
-	cost 84000
+	"cost" 84000
 	thumbnail "outfit/small shield module"
 	"mass" 11
 	"outfit space" -11
@@ -101,7 +101,7 @@ outfit "Large Shield Module"
 	category "Systems"
 	licenses
 		Coalition
-	cost 553000
+	"cost" 553000
 	thumbnail "outfit/large shield module"
 	"mass" 39
 	"outfit space" -39
@@ -115,7 +115,7 @@ outfit "Overcharged Shield Module"
 	category "Systems"
 	licenses
 		Heliarch
-	cost 1216000
+	"cost" 1216000
 	thumbnail "outfit/overcharged shield module"
 	"mass" 44
 	"outfit space" -44
@@ -130,7 +130,7 @@ outfit "Small Repair Module"
 	category "Systems"
 	licenses
 		Coalition
-	cost 64000
+	"cost" 64000
 	thumbnail "outfit/small repair module"
 	"mass" 6
 	"outfit space" -6
@@ -143,7 +143,7 @@ outfit "Large Repair Module"
 	category "Systems"
 	licenses
 		Coalition
-	cost 553000
+	"cost" 553000
 	thumbnail "outfit/large repair module"
 	"mass" 21
 	"outfit space" -21
@@ -156,7 +156,7 @@ outfit "Overclocked Repair Module"
 	category "Systems"
 	licenses
 		Heliarch
-	cost 1126000
+	"cost" 1126000
 	thumbnail "outfit/overclocked repair module"
 	"mass" 32
 	"outfit space" -32
@@ -170,7 +170,7 @@ outfit "Cooling Module"
 	category "Systems"
 	licenses
 		Coalition
-	cost 160000
+	"cost" 160000
 	thumbnail "outfit/cooling module"
 	"mass" 5
 	"outfit space" -5
@@ -183,7 +183,7 @@ outfit "Scanning Module"
 	category "Systems"
 	licenses
 		Heliarch
-	cost 453600
+	"cost" 453600
 	thumbnail "outfit/scan module"
 	"mass" 3
 	"outfit space" -3
@@ -261,7 +261,7 @@ outfit "Enforcer Confrontation Gear"
 	category "Hand to Hand"
 	licenses
 		Heliarch
-	cost 369000
+	"cost" 369000
 	thumbnail "outfit/enforcer confrontation gear"
 	"capture attack" 3.1
 	"capture defense" 4.9
@@ -272,7 +272,7 @@ outfit "Enforcer Riot Staff"
 	category "Hand to Hand"
 	licenses
 		Heliarch
-	cost 97000
+	"cost" 97000
 	thumbnail "outfit/enforcer riot staff"
 	"capture attack" 2.0
 	"capture defense" 3.5
