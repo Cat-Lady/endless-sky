@@ -117,7 +117,7 @@ government "Hai"
 	"attitude toward"
 		"Hai (Unfettered)" -.1
 		"Merchant" .01
-	"bribe" .02
+	"fine" 0
 	"friendly hail" "friendly hai"
 	"friendly disabled hail" "friendly disabled hai"
 	"hostile hail" "hostile hai"
