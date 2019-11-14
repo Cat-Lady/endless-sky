@@ -113,7 +113,7 @@ outfit "nGVF-AA Fuel Cell"
 	"mass" 20
 	"outfit space" -20
 	"energy generation" 1.2
-	"heat generation" 1.9v
+	"heat generation" 1.9
 	"unplunderable" 1
 	description "Fuel cells have been the cheapest and most common starship power sources since the dawn of the space era. This model produces only enough power for very small or slow ships."
 
