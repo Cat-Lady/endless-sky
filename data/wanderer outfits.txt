@@ -13,6 +13,8 @@ outfit "Sunbeam"
 	licenses
 		"Wanderer Outfits"
 	"cost" 1390000
+	"operating costs" 37067
+	"maintenance costs" 18533
 	thumbnail "outfit/sunbeam"
 	"mass" 34
 	"outfit space" -34
@@ -50,6 +52,8 @@ outfit "Sunbeam Turret"
 	licenses
 		"Wanderer Outfits"
 	"cost" 1970000
+	"operating costs" 52533
+	"maintenance costs" 26267
 	thumbnail "outfit/sunbeam turret"
 	"mass" 46
 	"outfit space" -46
@@ -81,6 +85,8 @@ outfit "Dual Sunbeam Turret"
 	licenses
 		"Wanderer Outfits"
 	"cost" 3720000
+	"operating costs" 99200
+	"maintenance costs" 49600
 	thumbnail "outfit/dual sunbeam turret"
 	"mass" 83
 	"outfit space" -83
@@ -112,6 +118,8 @@ outfit "Moonbeam"
 	licenses
 		"Wanderer Outfits"
 	"cost" 760000
+	"operating costs" 20267
+	"maintenance costs" 10133
 	thumbnail "outfit/moonbeam"
 	"mass" 19
 	"outfit space" -19
@@ -156,6 +164,8 @@ outfit "Moonbeam Turret"
 	licenses
 		"Wanderer Outfits"
 	"cost" 1730000
+	"operating costs" 46133
+	"maintenance costs" 23067
 	thumbnail "outfit/moonbeam turret"
 	"mass" 35
 	"outfit space" -35
@@ -189,6 +199,8 @@ outfit "Wanderer Anti-Missile"
 	licenses
 		"Wanderer Outfits"
 	"cost" 850000
+	"operating costs" 22667
+	"maintenance costs" 11333
 	thumbnail "outfit/wanderer anti-missile"
 	"mass" 24
 	"outfit space" -24
@@ -219,6 +231,8 @@ outfit "Thunderhead Launcher"
 	licenses
 		"Wanderer Outfits"
 	"cost" 450000
+	"operating costs" 12000
+	"maintenance costs" 6000
 	thumbnail "outfit/thunderhead launcher"
 	"mass" 14
 	"outfit space" -26
@@ -255,6 +269,8 @@ outfit "Thunderhead Launcher"
 outfit "Thunderhead Missile"
 	category "Ammunition"
 	"cost" 1800
+	"operating costs" 48
+	"maintenance costs" 24
 	thumbnail "outfit/thunderhead"
 	mass .3
 	"thunderhead capacity" -1
@@ -287,6 +303,8 @@ outfit "Thunderhead Storage Array"
 	licenses
 		"Wanderer Outfits"
 	"cost" 36000
+	"operating costs" 960
+	"maintenance costs" 480
 	thumbnail "outfit/thunderhead storage"
 	"mass" 2
 	"outfit space" -8
@@ -300,6 +318,8 @@ outfit "Small Biochemical Cell"
 	licenses
 		"Wanderer Outfits"
 	"cost" 230000
+	"operating costs" 6133
+	"maintenance costs" 3067
 	thumbnail "outfit/small biochemical"
 	"mass" 17
 	"outfit space" -17
@@ -314,6 +334,8 @@ outfit "Large Biochemical Cell"
 	licenses
 		"Wanderer Outfits"
 	"cost" 940000
+	"operating costs" 25067
+	"maintenance costs" 12533
 	thumbnail "outfit/large biochemical"
 	"mass" 63
 	"outfit space" -63
@@ -328,6 +350,8 @@ outfit "Red Sun Reactor"
 	licenses
 		"Wanderer Outfits"
 	"cost" 3800000
+	"operating costs" 101333
+	"maintenance costs" 50667
 	thumbnail "outfit/red sun"
 	"mass" 47
 	"outfit space" -47
@@ -342,6 +366,8 @@ outfit "Yellow Sun Reactor"
 	licenses
 		"Wanderer Outfits"
 	"cost" 7500000
+	"operating costs" 200000
+	"maintenance costs" 100000
 	thumbnail "outfit/yellow sun"
 	"mass" 82
 	"outfit space" -82
@@ -356,6 +382,8 @@ outfit "White Sun Reactor"
 	licenses
 		"Wanderer Outfits"
 	"cost" 13900000
+	"operating costs" 370667
+	"maintenance costs" 185333
 	thumbnail "outfit/white sun"
 	"mass" 127
 	"outfit space" -127
@@ -370,6 +398,8 @@ outfit "Blue Sun Reactor"
 	licenses
 		"Wanderer Outfits"
 	"cost" 21500000
+	"operating costs" 573333
+	"maintenance costs" 286667
 	thumbnail "outfit/blue sun"
 	"mass" 152
 	"outfit space" -152
@@ -385,6 +415,8 @@ outfit "Bright Cloud Shielding"
 	licenses
 		"Wanderer Outfits"
 	"cost" 220000
+	"operating costs" 5867
+	"maintenance costs" 2933
 	thumbnail "outfit/bright cloud"
 	"mass" 19
 	"outfit space" -19
@@ -398,6 +430,8 @@ outfit "Dark Storm Shielding"
 	licenses
 		"Wanderer Outfits"
 	"cost" 800000
+	"operating costs" 21333
+	"maintenance costs" 10667
 	thumbnail "outfit/dark storm"
 	"mass" 41
 	"outfit space" -41
@@ -411,6 +445,8 @@ outfit "Wanderer Ramscoop"
 	licenses
 		"Wanderer Outfits"
 	"cost" 460000
+	"operating costs" 12267
+	"maintenance costs" 6133
 	thumbnail "outfit/wanderer ramscoop"
 	"mass" 7
 	"outfit space" -7
@@ -423,6 +459,8 @@ outfit "Wanderer Heat Sink"
 	licenses
 		"Wanderer Outfits"
 	"cost" 94000
+	"operating costs" 2507
+	"maintenance costs" 1253
 	thumbnail "outfit/wanderer heat sink"
 	"mass" 12
 	"outfit space" -12
@@ -436,6 +474,8 @@ outfit "Type 1 Radiant Thruster"
 	licenses
 		"Wanderer Outfits"
 	"cost" 135000
+	"operating costs" 3600
+	"maintenance costs" 1800
 	thumbnail "outfit/tiny radiant thruster"
 	"mass" 12
 	"outfit space" -12
@@ -454,6 +494,8 @@ outfit "Type 2 Radiant Thruster"
 	licenses
 		"Wanderer Outfits"
 	"cost" 390000
+	"operating costs" 10400
+	"maintenance costs" 5200
 	thumbnail "outfit/small radiant thruster"
 	"mass" 27
 	"outfit space" -27
@@ -472,6 +514,8 @@ outfit "Type 3 Radiant Thruster"
 	licenses
 		"Wanderer Outfits"
 	"cost" 750000
+	"operating costs" 20000
+	"maintenance costs" 10000
 	thumbnail "outfit/medium radiant thruster"
 	"mass" 42
 	"outfit space" -42
@@ -490,6 +534,8 @@ outfit "Type 4 Radiant Thruster"
 	licenses
 		"Wanderer Outfits"
 	"cost" 1370000
+	"operating costs" 36533
+	"maintenance costs" 18267
 	thumbnail "outfit/large radiant thruster"
 	"mass" 65
 	"outfit space" -65
@@ -508,6 +554,8 @@ outfit "Type 1 Radiant Steering"
 	licenses
 		"Wanderer Outfits"
 	"cost" 115000
+	"operating costs" 3067
+	"maintenance costs" 1533
 	thumbnail "outfit/tiny radiant steering"
 	"mass" 9
 	"outfit space" -9
@@ -523,6 +571,8 @@ outfit "Type 2 Radiant Steering"
 	licenses
 		"Wanderer Outfits"
 	"cost" 325000
+	"operating costs" 8667
+	"maintenance costs" 4333
 	thumbnail "outfit/small radiant steering"
 	"mass" 20
 	"outfit space" -20
@@ -538,6 +588,8 @@ outfit "Type 3 Radiant Steering"
 	licenses
 		"Wanderer Outfits"
 	"cost" 590000
+	"operating costs" 15733
+	"maintenance costs" 7867
 	thumbnail "outfit/medium radiant steering"
 	"mass" 30
 	"outfit space" -30
@@ -553,6 +605,8 @@ outfit "Type 4 Radiant Steering"
 	licenses
 		"Wanderer Outfits"
 	"cost" 1100000
+	"operating costs" 29333
+	"maintenance costs" 14667
 	thumbnail "outfit/large radiant steering"
 	"mass" 47
 	"outfit space" -47

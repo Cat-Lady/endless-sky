@@ -10,7 +10,9 @@
 
 outfit "Drak Distancer"
 	category "Turrets"
-	cost 1000000
+	"cost" 1000000
+	"operating costs" 40000
+	"maintenance costs" 20000
 	thumbnail "outfit/unknown"
 	"mass" 64
 	"outfit space" -64
@@ -35,7 +37,9 @@ effect "distancer flare"
 
 outfit "Drak Draining Field"
 	category "Turrets"
-	cost 1000000
+	"cost" 1000000
+	"operating costs" 40000
+	"maintenance costs" 20000
 	thumbnail "outfit/unknown"
 	"mass" 84
 	"outfit space" -84
@@ -56,7 +60,9 @@ outfit "Drak Draining Field"
 
 outfit "Drak Anti-Missile Field"
 	category "Turrets"
-	cost 1000000
+	"cost" 1000000
+	"operating costs" 40000
+	"maintenance costs" 20000
 	thumbnail "outfit/unknown"
 	"mass" 66
 	"outfit space" -66
@@ -73,7 +79,9 @@ outfit "Drak Anti-Missile Field"
 
 outfit "Drak Turret"
 	category "Turrets"
-	cost 1000000
+	"cost" 1000000
+	"operating costs" 40000
+	"maintenance costs" 20000
 	thumbnail "outfit/unknown"
 	"mass" 48
 	"outfit space" -48
@@ -108,7 +116,9 @@ effect "drak bolt impact"
 
 outfit "Drak Antimatter Cannon"
 	category "Guns"
-	cost 10000000
+	"cost" 10000000
+	"operating costs" 400000
+	"maintenance costs" 200000
 	thumbnail "outfit/unknown"
 	"mass" 96
 	"outfit space" -96
@@ -177,6 +187,8 @@ ship "Archon"
 	attributes
 		category "Heavy Warship"
 		"cost" 1000000000
+		"operating costs" 40000000
+		"maintenance costs" 20000000
 		"shields" 4000000
 		"hull" 1000000
 		"required crew" 1

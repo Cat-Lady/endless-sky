@@ -13,6 +13,8 @@ outfit "Bombardment Cannon"
 	licenses
 		Heliarch
 	"cost" 437000
+	"operating costs" 8740
+	"maintenance costs" 4370
 	thumbnail "outfit/bombardment cannon"
 	"mass" 12
 	"outfit space" -12
@@ -40,6 +42,8 @@ outfit "Bombardment Turret"
 	licenses
 		Heliarch
 	"cost" 1845000
+	"operating costs" 36900
+	"maintenance costs" 18450
 	thumbnail "outfit/bombardment turret"
 	"mass" 43
 	"outfit space" -43
@@ -82,6 +86,8 @@ outfit "Finisher Pod"
 	licenses
 		Heliarch
 	"cost" 1370000
+	"operating costs" 27400
+	"maintenance costs" 13700
 	thumbnail "outfit/finisher pod"
 	"mass" 16
 	"outfit space" -36
@@ -138,6 +144,8 @@ outfit "Finisher Torpedo"
 	plural "Finisher Torpedoes"
 	category "Ammunition"
 	"cost" 32000
+	"operating costs" 640
+	"maintenance costs" 320
 	thumbnail "outfit/finisher"
 	"mass" .5
 	"finisher capacity" -1
@@ -187,6 +195,8 @@ outfit "Heliarch Attractor"
 	licenses
 		Heliarch
 	"cost" 2187000
+	"operating costs" 43740
+	"maintenance costs" 21870
 	thumbnail "outfit/heliarch attractor"
 	"mass" 49
 	"outfit space" -49
@@ -230,6 +240,8 @@ outfit "Heliarch Repulsor"
 	licenses
 		Heliarch
 	"cost" 2549000
+	"operating costs" 50980
+	"maintenance costs" 25490
 	thumbnail "outfit/heliarch repulsor"
 	"mass" 56
 	"outfit space" -56
@@ -274,6 +286,8 @@ outfit "Ion Rain Gun"
 	licenses
 		Heliarch
 	"cost" 798000
+	"operating costs" 15960
+	"maintenance costs" 7980
 	thumbnail "outfit/ion rain gun"
 	"mass" 17
 	"outfit space" -17

@@ -12,6 +12,8 @@ outfit "Nanotech Battery"
 	plural "Nanotech Batteries"
 	category "Power"
 	"cost" 3000000
+	"operating costs" 100000
+	"maintenance costs" 50000
 	thumbnail "outfit/quarg nanotech battery"
 	"mass" 50
 	"outfit space" -50
@@ -21,6 +23,8 @@ outfit "Nanotech Battery"
 outfit "Antimatter Core"
 	category "Power"
 	"cost" 100000000
+	"operating costs" 3333333
+	"maintenance costs" 1666667
 	thumbnail "outfit/quarg antimatter core"
 	"mass" 80
 	"outfit space" -80
@@ -33,6 +37,8 @@ outfit "Antimatter Core"
 outfit "Quarg Skylance"
 	category "Turrets"
 	"cost" 18000000
+	"operating costs" 600000
+	"maintenance costs" 300000
 	thumbnail "outfit/quarg skylance"
 	"mass" 60
 	"outfit space" -60
@@ -70,6 +76,8 @@ effect "skylance impact"
 outfit "Quarg Anti-Missile"
 	category "Turrets"
 	"cost" 6000000
+	"operating costs" 200000
+	"maintenance costs" 100000
 	thumbnail "outfit/quarg anti missile"
 	"mass" 40
 	"outfit space" -40
@@ -105,6 +113,8 @@ outfit "Intrusion Countermeasures"
 outfit "Medium Graviton Thruster"
 	category "Engines"
 	"cost" 20000000
+	"operating costs" 666667
+	"maintenance costs" 333333
 	thumbnail "outfit/medium quarg thruster"
 	"mass" 70
 	"outfit space" -70
@@ -117,6 +127,8 @@ outfit "Medium Graviton Thruster"
 outfit "Medium Graviton Steering"
 	category "Engines"
 	"cost" 16000000
+	"operating costs" 533333
+	"maintenance costs" 266667
 	thumbnail "outfit/medium quarg steering"
 	"mass" 50
 	"outfit space" -50
@@ -128,6 +140,8 @@ outfit "Medium Graviton Steering"
 outfit "Quantum Shield Generator"
 	category "Systems"
 	"cost" 30000000
+	"operating costs" 1000000
+	"maintenance costs" 500000
 	thumbnail "outfit/quarg quantum shield generator"
 	"mass" 120
 	"outfit space" -120

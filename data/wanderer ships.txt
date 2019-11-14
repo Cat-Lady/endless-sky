@@ -16,6 +16,8 @@ ship "Earth Shaper"
 		licenses
 			Wanderer
 		"cost" 500000
+		"operating costs" 13333
+		"maintenance costs" 6667
 		"hull" 3300
 		"automaton" 1
 		"mass" 30
@@ -54,6 +56,8 @@ ship "Flycatcher"
 		licenses
 			Wanderer
 		"cost" 830000
+		"operating costs" 22133
+		"maintenance costs" 11067
 		"hull" 4700
 		"automaton" 1
 		"mass" 40
@@ -93,6 +97,8 @@ ship "Summer Leaf"
 		licenses
 			Wanderer
 		"cost" 9500000
+		"operating costs" 253333
+		"maintenance costs" 126667
 		"shields" 14400
 		"hull" 6700
 		"required crew" 6
@@ -142,6 +148,8 @@ ship "Autumn Leaf"
 		licenses
 			Wanderer
 		"cost" 12500000
+		"operating costs" 333333
+		"maintenance costs" 166667
 		"shields" 18700
 		"hull" 7400
 		"required crew" 8
@@ -204,6 +212,8 @@ ship "Strong Wind"
 		licenses
 			"Wanderer Military"
 		"cost" 16100000
+		"operating costs" 429333
+		"maintenance costs" 214667
 		"shields" 28500
 		"hull" 19600
 		"required crew" 17
@@ -262,6 +272,8 @@ ship "Tempest"
 		licenses
 			"Wanderer Military"
 		"cost" 19700000
+		"operating costs" 525333
+		"maintenance costs" 262667
 		"shields" 42100
 		"hull" 25900
 		"required crew" 38
@@ -361,6 +373,8 @@ ship "Derecho"
 		licenses
 			"Wanderer Military"
 		"cost" 30500000
+		"operating costs" 813333
+		"maintenance costs" 406667
 		"shields" 53200
 		"hull" 32700
 		"required crew" 53
@@ -462,6 +476,8 @@ ship "Hurricane"
 		licenses
 			"Wanderer Military"
 		"cost" 39100000
+		"operating costs" 1042667
+		"maintenance costs" 521333
 		"shields" 72400
 		"hull" 46500
 		"required crew" 76
@@ -572,6 +588,8 @@ ship "Cool Breeze"
 		licenses
 			"Wanderer Military"
 		"cost" 4530000
+		"operating costs" 120800
+		"maintenance costs" 60400
 		"shields" 7700
 		"hull" 3100
 		"required crew" 1
@@ -629,6 +647,8 @@ ship "Winter Gale"
 		licenses
 			"Wanderer Military"
 		"cost" 14100000
+		"operating costs" 376000
+		"maintenance costs" 188000
 		"shields" 22400
 		"hull" 14800
 		"required crew" 14
@@ -732,6 +752,8 @@ ship "Deep River"
 		licenses
 			Wanderer
 		"cost" 18300000
+		"operating costs" 488000
+		"maintenance costs" 244000
 		"shields" 17600
 		"hull" 47500
 		"required crew" 13
@@ -821,6 +843,8 @@ ship "Deep River Transport"
 		licenses
 			Wanderer
 		"cost" 18300000
+		"operating costs" 488000
+		"maintenance costs" 244000
 		"shields" 17600
 		"hull" 47500
 		"required crew" 13
@@ -873,6 +897,8 @@ ship "Riptide"
 		licenses
 			Wanderer
 		"cost" 21120000
+		"operating costs" 563200
+		"maintenance costs" 281600
 		"shields" 38600
 		"hull" 22350
 		"required crew" 47

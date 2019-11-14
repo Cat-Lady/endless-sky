@@ -14,6 +14,8 @@ ship "Korath Raider"
 	attributes
 		category "Heavy Warship"
 		"cost" 16570000
+		"operating costs" 441867
+		"maintenance costs" 220933
 		"shields" 27000
 		"hull" 9000
 		"required crew" 145
@@ -150,6 +152,8 @@ ship "Korath Chaser"
 	attributes
 		category "Fighter"
 		"cost" 671000
+		"operating costs" 17893
+		"maintenance costs" 8947
 		"shields" 2300
 		"hull" 900
 		"required crew" 1
@@ -189,6 +193,8 @@ ship "Korath World-Ship"
 	attributes
 		category "Heavy Freighter"
 		"cost" 27690000
+		"operating costs" 738400
+		"maintenance costs" 369200
 		shields 47000
 		hull 34000
 		"required crew" 794
@@ -402,6 +408,8 @@ ship "Kar Ik Vot 349"
 	attributes
 		category "Heavy Warship"
 		"cost" 41280000
+		"operating costs" 1100800
+		"maintenance costs" 550400
 		"shields" 57200
 		"hull" 65400
 		"automaton" 1
@@ -559,6 +567,8 @@ ship "Tek Far 71 - Lek"
 	attributes
 		category "Medium Warship"
 		"cost" 22870000
+		"operating costs" 609867
+		"maintenance costs" 304933
 		"shields" 25400
 		"hull" 29500
 		"automaton" 1
@@ -652,6 +662,8 @@ ship "Tek Far 78 - Osk"
 	attributes
 		category "Medium Warship"
 		"cost" 25630000
+		"operating costs" 683467
+		"maintenance costs" 341733
 		"shields" 27600
 		"hull" 34100
 		"automaton" 1
@@ -744,6 +756,8 @@ ship "Tek Far 109"
 	attributes
 		category "Medium Warship"
 		"cost" 18290000
+		"operating costs" 487733
+		"maintenance costs" 243867
 		"shields" 17900
 		"hull" 15800
 		"automaton" 1
@@ -815,6 +829,8 @@ ship "Met Par Tek 53"
 	attributes
 		category "Light Warship"
 		"cost" 14480000
+		"operating costs" 386133
+		"maintenance costs" 193067
 		"shields" 15100
 		"hull" 22200
 		"automaton" 1
@@ -904,6 +920,8 @@ ship "Far Lek 14"
 	attributes
 		category "Drone"
 		"cost" 573000
+		"operating costs" 15280
+		"maintenance costs" 7640
 		"shields" 900
 		"hull" 1600
 		"automaton" 1
@@ -942,6 +960,8 @@ ship "Far Osk 27"
 	attributes
 		category "Fighter"
 		"cost" 761000
+		"operating costs" 20293
+		"maintenance costs" 10147
 		"shields" 1500
 		"hull" 2400
 		"automaton" 1
@@ -982,6 +1002,8 @@ ship "Model 8"
 	attributes
 		category "Interceptor"
 		"cost" 3725000
+		"operating costs" 99333
+		"maintenance costs" 49667
 		"shields" 5450
 		"hull" 3320
 		"automaton" 1
@@ -1028,6 +1050,8 @@ ship "Model 16"
 	attributes
 		category "Light Warship"
 		"cost" 8449000
+		"operating costs" 225307
+		"maintenance costs" 112653
 		"shields" 15700
 		"hull" 9800
 		"automaton" 1
@@ -1081,6 +1105,8 @@ ship "Model 32"
 	attributes
 		category "Light Warship"
 		"cost" 12765000
+		"operating costs" 340400
+		"maintenance costs" 170200
 		"shields" 27900
 		"hull" 13400
 		"automaton" 1
@@ -1135,6 +1161,8 @@ ship "Model 64"
 	attributes
 		category "Medium Warship"
 		"cost" 19552000
+		"operating costs" 521387
+		"maintenance costs" 260693
 		"shields" 41700
 		"hull" 18000
 		"automaton" 1
@@ -1191,6 +1219,8 @@ ship "Model 128"
 	attributes
 		category "Medium Warship"
 		"cost" 24073000
+		"operating costs" 641947
+		"maintenance costs" 320973
 		"shields" 57000
 		"hull" 23100
 		"automaton" 1
@@ -1248,6 +1278,8 @@ ship "Model 256"
 	attributes
 		category "Heavy Warship"
 		"cost" 34920000
+		"operating costs" 931200
+		"maintenance costs" 465600
 		"shields" 71700
 		"hull" 28700
 		"automaton" 1
@@ -1307,6 +1339,8 @@ ship "Model 512"
 	attributes
 		category "Heavy Warship"
 		"cost" 40375000
+		"operating costs" 1076667
+		"maintenance costs" 538333
 		"shields" 86400
 		"hull" 34200
 		"automaton" 1

@@ -2617,7 +2617,7 @@ conversation "southern pirate defense"
 
 outfit "Secret Cargo"
 	category "Special"
-	cost 0
+	"cost" 0
 	thumbnail "outfit/unknown"
 	"mass" 1
 	description "Cargo stolen from a merchant ship which has caught the interest of a pirate warlord."

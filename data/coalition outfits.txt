@@ -13,6 +13,8 @@ outfit "Small Collector Module"
 	licenses
 		Coalition
 	"cost" 60000
+	"operating costs" 1200
+	"maintenance costs" 600
 	thumbnail "outfit/small collector module"
 	"mass" 8
 	"outfit space" -8
@@ -25,6 +27,8 @@ outfit "Large Collector Module"
 	licenses
 		Coalition
 	"cost" 300000
+	"operating costs" 6000
+	"maintenance costs" 3000
 	thumbnail "outfit/large collector module"
 	"mass" 28
 	"outfit space" -28
@@ -37,6 +41,8 @@ outfit "Small Reactor Module"
 	licenses
 		Heliarch
 	"cost" 5497000
+	"operating costs" 109940
+	"maintenance costs" 54970
 	thumbnail "outfit/small reactor module"
 	"mass" 42
 	"outfit space" -42
@@ -50,6 +56,8 @@ outfit "Large Reactor Module"
 	licenses
 		Heliarch
 	"cost" 17754000
+	"operating costs" 355080
+	"maintenance costs" 177540
 	thumbnail "outfit/large reactor module"
 	"mass" 98
 	"outfit space" -98
@@ -63,6 +71,8 @@ outfit "Small Battery Module"
 	licenses
 		Coalition
 	"cost" 44000
+	"operating costs" 880
+	"maintenance costs" 440
 	thumbnail "outfit/small battery module"
 	"mass" 4
 	"outfit space" -4
@@ -75,6 +85,8 @@ outfit "Large Battery Module"
 	licenses
 		Coalition
 	"cost" 340000
+	"operating costs" 6800
+	"maintenance costs" 3400
 	thumbnail "outfit/large battery module"
 	"mass" 18
 	"outfit space" -18
@@ -88,6 +100,8 @@ outfit "Small Shield Module"
 	licenses
 		Coalition
 	"cost" 84000
+	"operating costs" 1680
+	"maintenance costs" 840
 	thumbnail "outfit/small shield module"
 	"mass" 11
 	"outfit space" -11
@@ -102,6 +116,8 @@ outfit "Large Shield Module"
 	licenses
 		Coalition
 	"cost" 553000
+	"operating costs" 11060
+	"maintenance costs" 5530
 	thumbnail "outfit/large shield module"
 	"mass" 39
 	"outfit space" -39
@@ -116,6 +132,8 @@ outfit "Overcharged Shield Module"
 	licenses
 		Heliarch
 	"cost" 1216000
+	"operating costs" 24320
+	"maintenance costs" 12160
 	thumbnail "outfit/overcharged shield module"
 	"mass" 44
 	"outfit space" -44
@@ -131,6 +149,8 @@ outfit "Small Repair Module"
 	licenses
 		Coalition
 	"cost" 64000
+	"operating costs" 1280
+	"maintenance costs" 640
 	thumbnail "outfit/small repair module"
 	"mass" 6
 	"outfit space" -6
@@ -144,6 +164,8 @@ outfit "Large Repair Module"
 	licenses
 		Coalition
 	"cost" 553000
+	"operating costs" 11060
+	"maintenance costs" 5530
 	thumbnail "outfit/large repair module"
 	"mass" 21
 	"outfit space" -21
@@ -157,6 +179,8 @@ outfit "Overclocked Repair Module"
 	licenses
 		Heliarch
 	"cost" 1126000
+	"operating costs" 22520
+	"maintenance costs" 11260
 	thumbnail "outfit/overclocked repair module"
 	"mass" 32
 	"outfit space" -32
@@ -171,6 +195,8 @@ outfit "Cooling Module"
 	licenses
 		Coalition
 	"cost" 160000
+	"operating costs" 3200
+	"maintenance costs" 1600
 	thumbnail "outfit/cooling module"
 	"mass" 5
 	"outfit space" -5
@@ -184,6 +210,8 @@ outfit "Scanning Module"
 	licenses
 		Heliarch
 	"cost" 453600
+	"operating costs" 9072
+	"maintenance costs" 4536
 	thumbnail "outfit/scan module"
 	"mass" 3
 	"outfit space" -3
@@ -200,6 +228,8 @@ outfit "Small Thrust Module"
 	licenses
 		Coalition
 	"cost" 66000
+	"operating costs" 1320
+	"maintenance costs" 660
 	thumbnail "outfit/small thrust module"
 	"mass" 9
 	"outfit space" -9
@@ -217,6 +247,8 @@ outfit "Large Thrust Module"
 	licenses
 		Coalition
 	"cost" 292000
+	"operating costs" 5840
+	"maintenance costs" 2920
 	thumbnail "outfit/large thrust module"
 	"mass" 32
 	"outfit space" -32
@@ -234,6 +266,8 @@ outfit "Small Steering Module"
 	licenses
 		Coalition
 	"cost" 60000
+	"operating costs" 1200
+	"maintenance costs" 600
 	thumbnail "outfit/small steering module"
 	"mass" 7
 	"outfit space" -7
@@ -248,6 +282,8 @@ outfit "Large Steering Module"
 	licenses
 		Coalition
 	"cost" 269000
+	"operating costs" 5380
+	"maintenance costs" 2690
 	thumbnail "outfit/large steering module"
 	"mass" 25
 	"outfit space" -25
@@ -262,6 +298,8 @@ outfit "Enforcer Confrontation Gear"
 	licenses
 		Heliarch
 	"cost" 369000
+	"operating costs" 7380
+	"maintenance costs" 3690
 	thumbnail "outfit/enforcer confrontation gear"
 	"capture attack" 3.1
 	"capture defense" 4.9
@@ -273,6 +311,8 @@ outfit "Enforcer Riot Staff"
 	licenses
 		Heliarch
 	"cost" 97000
+	"operating costs" 1940
+	"maintenance costs" 970
 	thumbnail "outfit/enforcer riot staff"
 	"capture attack" 2.0
 	"capture defense" 3.5

@@ -12,6 +12,8 @@ outfit "Generator (Candle Class)"
 	plural "Generators (Candle Class)"
 	category "Power"
 	"cost" 493000
+	"operating costs" 13147
+	"maintenance costs" 6573
 	thumbnail "outfit/small korath generator"
 	"mass" 23
 	"outfit space" -23
@@ -24,6 +26,8 @@ outfit "Generator (Furnace Class)"
 	plural "Generators (Furnace Class)"
 	category "Power"
 	"cost" 925000
+	"operating costs" 24667
+	"maintenance costs" 12333
 	thumbnail "outfit/medium korath generator"
 	"mass" 39
 	"outfit space" -39
@@ -36,6 +40,8 @@ outfit "Generator (Inferno Class)"
 	plural "Generators (Inferno Class)"
 	category "Power"
 	"cost" 1877000
+	"operating costs" 50053
+	"maintenance costs" 25027
 	thumbnail "outfit/large korath generator"
 	"mass" 71
 	"outfit space" -71
@@ -47,6 +53,8 @@ outfit "Generator (Inferno Class)"
 outfit "Plasma Core"
 	category "Power"
 	"cost" 4188000
+	"operating costs" 111680
+	"maintenance costs" 55840
 	thumbnail "outfit/plasma core"
 	"mass" 54
 	"outfit space" -54
@@ -58,6 +66,8 @@ outfit "Plasma Core"
 outfit "Double Plasma Core"
 	category "Power"
 	"cost" 9321000
+	"operating costs" 248560
+	"maintenance costs" 124280
 	thumbnail "outfit/double plasma core"
 	"mass" 93
 	"outfit space" -93
@@ -69,6 +79,8 @@ outfit "Double Plasma Core"
 outfit "Triple Plasma Core"
 	category "Power"
 	"cost" 20460000
+	"operating costs" 545600
+	"maintenance costs" 272800
 	thumbnail "outfit/triple plasma core"
 	"mass" 169
 	"outfit space" -169
@@ -82,6 +94,8 @@ outfit "Triple Plasma Core"
 outfit "Small Heat Shunt"
 	category "Systems"
 	"cost" 180000
+	"operating costs" 4800
+	"maintenance costs" 2400
 	thumbnail "outfit/small heat shunt"
 	"mass" 7
 	"outfit space" -7
@@ -92,6 +106,8 @@ outfit "Small Heat Shunt"
 outfit "Large Heat Shunt"
 	category "Systems"
 	"cost" 790000
+	"operating costs" 21067
+	"maintenance costs" 10533
 	thumbnail "outfit/large heat shunt"
 	"mass" 24
 	"outfit space" -24
@@ -104,6 +120,8 @@ outfit "Systems Core (Small)"
 	plural "Systems Cores (Small)"
 	category "Systems"
 	"cost" 1452000
+	"operating costs" 38720
+	"maintenance costs" 19360
 	thumbnail "outfit/small systems core"
 	"mass" 31
 	"outfit space" -31
@@ -120,6 +138,8 @@ outfit "Systems Core (Medium)"
 	plural "Systems Cores (Medium)"
 	category "Systems"
 	"cost" 3630000
+	"operating costs" 96800
+	"maintenance costs" 48400
 	thumbnail "outfit/medium systems core"
 	"mass" 53
 	"outfit space" -53
@@ -136,6 +156,8 @@ outfit "Systems Core (Large)"
 	plural "Systems Cores (Large)"
 	category "Systems"
 	"cost" 9075000
+	"operating costs" 242000
+	"maintenance costs" 121000
 	thumbnail "outfit/large systems core"
 	"mass" 91
 	"outfit space" -91
@@ -152,6 +174,8 @@ outfit "Systems Core (Large)"
 outfit "Fuel Processor"
 	category "Systems"
 	"cost" 400000
+	"operating costs" 10667
+	"maintenance costs" 5333
 	thumbnail "outfit/korath fuel processor"
 	"mass" 14
 	"outfit space" -14
@@ -164,6 +188,8 @@ outfit "Fuel Processor"
 outfit "Command Center"
 	category "Systems"
 	"cost" 437000
+	"operating costs" 11653
+	"maintenance costs" 5827
 	thumbnail "outfit/command center"
 	"mass" 8
 	"outfit space" -24
@@ -196,6 +222,8 @@ outfit "Thruster (Asteroid Class)"
 	plural "Thrusters (Asteroid Class)"
 	category "Engines"
 	"cost" 113000
+	"operating costs" 3013
+	"maintenance costs" 1507
 	thumbnail "outfit/tiny korath thruster"
 	"mass" 14
 	"outfit space" -14
@@ -212,6 +240,8 @@ outfit "Thruster (Comet Class)"
 	plural "Thrusters (Comet Class)"
 	category "Engines"
 	"cost" 249000
+	"operating costs" 6640
+	"maintenance costs" 3320
 	thumbnail "outfit/small korath thruster"
 	"mass" 24
 	"outfit space" -24
@@ -228,6 +258,8 @@ outfit "Thruster (Lunar Class)"
 	plural "Thrusters (Lunar Class)"
 	category "Engines"
 	"cost" 539000
+	"operating costs" 14373
+	"maintenance costs" 7187
 	thumbnail "outfit/medium korath thruster"
 	"mass" 40
 	"outfit space" -40
@@ -244,6 +276,8 @@ outfit "Thruster (Planetary Class)"
 	plural "Thrusters (Planetary Class)"
 	category "Engines"
 	"cost" 1216000
+	"operating costs" 32427
+	"maintenance costs" 16213
 	thumbnail "outfit/large korath thruster"
 	"mass" 69
 	"outfit space" -69
@@ -260,6 +294,8 @@ outfit "Thruster (Stellar Class)"
 	plural "Thrusters (Stellar Class)"
 	category "Engines"
 	"cost" 2733000
+	"operating costs" 72880
+	"maintenance costs" 36440
 	thumbnail "outfit/huge korath thruster"
 	"mass" 118
 	"outfit space" -118
@@ -276,6 +312,8 @@ outfit "Steering (Asteroid Class)"
 	plural "Steerings (Asteroid Class)"
 	category "Engines"
 	"cost" 95000
+	"operating costs" 2533
+	"maintenance costs" 1267
 	thumbnail "outfit/tiny korath steering"
 	"mass" 10
 	"outfit space" -10
@@ -289,6 +327,8 @@ outfit "Steering (Comet Class)"
 	plural "Steerings (Comet Class)"
 	category "Engines"
 	"cost" 221000
+	"operating costs" 5893
+	"maintenance costs" 2947
 	thumbnail "outfit/small korath steering"
 	"mass" 18
 	"outfit space" -18
@@ -302,6 +342,8 @@ outfit "Steering (Lunar Class)"
 	plural "Steerings (Lunar Class)"
 	category "Engines"
 	"cost" 473000
+	"operating costs" 12613
+	"maintenance costs" 6307
 	thumbnail "outfit/medium korath steering"
 	"mass" 30
 	"outfit space" -30
@@ -315,6 +357,8 @@ outfit "Steering (Planetary Class)"
 	plural "Steerings (Planetary Class)"
 	category "Engines"
 	"cost" 1077000
+	"operating costs" 28720
+	"maintenance costs" 14360
 	thumbnail "outfit/large korath steering"
 	"mass" 52
 	"outfit space" -52
@@ -328,6 +372,8 @@ outfit "Steering (Stellar Class)"
 	plural "Steerings (Stellar Class)"
 	category "Engines"
 	"cost" 2435000
+	"operating costs" 64933
+	"maintenance costs" 32467
 	thumbnail "outfit/huge korath steering"
 	"mass" 89
 	"outfit space" -89
@@ -340,6 +386,8 @@ outfit "Steering (Stellar Class)"
 outfit "Korath Repeater Rifle"
 	category "Hand to Hand"
 	"cost" 53000
+	"operating costs" 1413
+	"maintenance costs" 707
 	thumbnail "outfit/korath rifle"
 	"capture attack" 1.6
 	"capture defense" 2.4

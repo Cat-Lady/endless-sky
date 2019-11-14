@@ -11,6 +11,8 @@
 outfit "Korath Grab-Strike"
 	category "Turrets"
 	"cost" 821000
+	"operating costs" 21893
+	"maintenance costs" 10947
 	thumbnail "outfit/grab-strike"
 	"mass" 52
 	"outfit space" -52
@@ -56,6 +58,8 @@ effect "grab-strike impact"
 outfit "Korath Banisher"
 	category "Turrets"
 	"cost" 943000
+	"operating costs" 25147
+	"maintenance costs" 12573
 	thumbnail "outfit/banisher"
 	"mass" 41
 	"outfit space" -41
@@ -92,6 +96,8 @@ effect "banisher impact"
 outfit "Korath Warder"
 	category "Turrets"
 	"cost" 845000
+	"operating costs" 22533
+	"maintenance costs" 11267
 	thumbnail "outfit/warder"
 	"mass" 28
 	"outfit space" -28
@@ -122,6 +128,8 @@ effect "korath warder"
 outfit "Korath Fire-Lance"
 	category "Guns"
 	"cost" 697000
+	"operating costs" 18587
+	"maintenance costs" 9293
 	thumbnail "outfit/fire-lance"
 	"mass" 22
 	"outfit space" -22
@@ -156,6 +164,8 @@ effect "fire-lance impact"
 outfit "Korath Repeater"
 	category "Guns"
 	"cost" 306000
+	"operating costs" 8160
+	"maintenance costs" 4080
 	thumbnail "outfit/repeater"
 	"mass" 11
 	"outfit space" -11
@@ -194,6 +204,8 @@ effect "repeater impact"
 outfit "Korath Repeater Turret"
 	category "Turrets"
 	"cost" 874000
+	"operating costs" 23307
+	"maintenance costs" 11653
 	thumbnail "outfit/repeater turret"
 	"mass" 29
 	"outfit space" -29
@@ -227,6 +239,8 @@ outfit "Korath Repeater Turret"
 outfit "Korath Piercer"
 	category "Ammunition"
 	"cost" 3500
+	"operating costs" 93
+	"maintenance costs" 47
 	thumbnail "outfit/piercer"
 	"mass" .3
 	"piercer capacity" -1
@@ -236,6 +250,8 @@ outfit "Korath Piercer"
 outfit "Korath Piercer Rack"
 	category "Ammunition"
 	"cost" 56000
+	"operating costs" 1493
+	"maintenance costs" 747
 	thumbnail "outfit/korath piercer storage"
 	"mass" 2.2
 	"outfit space" -7
@@ -246,6 +262,8 @@ outfit "Korath Piercer Rack"
 outfit "Korath Piercer Launcher"
 	category "Secondary Weapons"
 	"cost" 593000
+	"operating costs" 15813
+	"maintenance costs" 7907
 	thumbnail "outfit/piercer launcher"
 	"mass" 18
 	"outfit space" -27
@@ -318,6 +336,8 @@ effect "piercer explosion"
 outfit "Korath Detainer"
 	category "Guns"
 	"cost" 1340000
+	"operating costs" 35733
+	"maintenance costs" 17867
 	thumbnail "outfit/detainer"
 	"mass" 76
 	"outfit space" -76
@@ -380,6 +400,8 @@ effect "detainer smoke"
 outfit "Korath Mine"
 	category "Ammunition"
 	"cost" 3500
+	"operating costs" 93
+	"maintenance costs" 47
 	thumbnail "outfit/korath mine"
 	"mass" .7
 	"minelayer capacity" -1
@@ -389,6 +411,8 @@ outfit "Korath Mine"
 outfit "Korath Mine Rack"
 	category "Ammunition"
 	"cost" 31500
+	"operating costs" 840
+	"maintenance costs" 420
 	thumbnail "outfit/korath mine storage"
 	"mass" 2.7
 	"outfit space" -9
@@ -399,6 +423,8 @@ outfit "Korath Mine Rack"
 outfit "Korath Minelayer"
 	category "Secondary Weapons"
 	"cost" 1073000
+	"operating costs" 28613
+	"maintenance costs" 14307
 	thumbnail "outfit/korath minelayer"
 	"mass" 36
 	"outfit space" -48
@@ -479,6 +505,8 @@ effect "minelayer split"
 outfit "Korath Disruptor"
 	category "Turrets"
 	"cost" 983000
+	"operating costs" 26213
+	"maintenance costs" 13107
 	thumbnail "outfit/disruptor"
 	"mass" 35
 	"outfit space" -35
@@ -518,6 +546,8 @@ effect "disruptor impact"
 outfit "Korath Slicer"
 	category "Guns"
 	"cost" 832000
+	"operating costs" 22187
+	"maintenance costs" 11093
 	thumbnail "outfit/slicer"
 	"mass" 46
 	"outfit space" -46
@@ -543,6 +573,8 @@ outfit "Korath Slicer"
 outfit "Korath Slicer Turret"
 	category "Turrets"
 	"cost" 1473000
+	"operating costs" 39280
+	"maintenance costs" 19640
 	thumbnail "outfit/slicer turret"
 	"mass" 59
 	"outfit space" -59

@@ -16,6 +16,8 @@ ship "Arach Courier"
 		licenses
 			Coalition
 		"cost" 723000
+		"operating costs" 14460
+		"maintenance costs" 7230
 		"shields" 1200
 		"hull" 2000
 		"required crew" 1
@@ -61,6 +63,8 @@ ship "Arach Freighter"
 		licenses
 			Coalition
 		"cost" 4580000
+		"operating costs" 91600
+		"maintenance costs" 45800
 		"shields" 3400
 		"hull" 8500
 		"required crew" 3
@@ -111,6 +115,8 @@ ship "Arach Hulk"
 		licenses
 			Coalition
 		"cost" 9978000
+		"operating costs" 199560
+		"maintenance costs" 99780
 		"shields" 5700
 		"hull" 13800
 		"required crew" 8
@@ -165,6 +171,8 @@ ship "Arach Spindle"
 		licenses
 			Coalition
 		"cost" 6652000
+		"operating costs" 133040
+		"maintenance costs" 66520
 		"shields" 5000
 		"hull" 9700
 		"required crew" 4
@@ -217,6 +225,8 @@ ship "Arach Transport"
 		licenses
 			Coalition
 		"cost" 2772000
+		"operating costs" 55440
+		"maintenance costs" 27720
 		"shields" 2300
 		"hull" 4800
 		"required crew" 2
@@ -267,6 +277,8 @@ ship "Heliarch Interdictor"
 		licenses
 			Heliarch
 		"cost" 35487000
+		"operating costs" 709740
+		"maintenance costs" 354870
 		"shields" 65300
 		"hull" 54600
 		"required crew" 42
@@ -348,6 +360,8 @@ ship "Heliarch Neutralizer"
 		licenses
 			Heliarch
 		"cost" 18847000
+		"operating costs" 376940
+		"maintenance costs" 188470
 		"shields" 36400
 		"hull" 32800
 		"required crew" 17
@@ -467,6 +481,8 @@ ship "Heliarch Punisher"
 		licenses
 			Heliarch
 		"cost" 58487000
+		"operating costs" 1169740
+		"maintenance costs" 584870
 		"shields" 108000
 		"hull" 85000
 		"required crew" 96
@@ -617,6 +633,8 @@ ship "Kimek Briar"
 		licenses
 			Coalition
 		"cost" 1532000
+		"operating costs" 30640
+		"maintenance costs" 15320
 		"shields" 3600
 		"hull" 1700
 		"required crew" 3
@@ -663,6 +681,8 @@ ship "Kimek Spire"
 		licenses
 			Coalition
 		"cost" 9375000
+		"operating costs" 187500
+		"maintenance costs" 93750
 		"shields" 14200
 		"hull" 4900
 		"required crew" 19
@@ -717,6 +737,8 @@ ship "Kimek Thistle"
 		licenses
 			Coalition
 		"cost" 2904000
+		"operating costs" 58080
+		"maintenance costs" 29040
 		"shields" 7500
 		"hull" 2800
 		"required crew" 7
@@ -766,6 +788,8 @@ ship "Kimek Thorn"
 		licenses
 			Coalition
 		"cost" 440000
+		"operating costs" 8800
+		"maintenance costs" 4400
 		"shields" 1400
 		"hull" 800
 		"required crew" 1
@@ -811,6 +835,8 @@ ship "Saryd Runabout"
 		licenses
 			Coalition
 		"cost" 942000
+		"operating costs" 18840
+		"maintenance costs" 9420
 		"shields" 2000
 		"hull" 1400
 		"required crew" 2
@@ -854,6 +880,8 @@ ship "Saryd Sojourner"
 		licenses
 			Coalition
 		"cost" 11075000
+		"operating costs" 221500
+		"maintenance costs" 110750
 		"shields" 13000
 		"hull" 7700
 		"required crew" 17
@@ -909,6 +937,8 @@ ship "Saryd Traveler"
 		licenses
 			Coalition
 		"cost" 3385000
+		"operating costs" 67700
+		"maintenance costs" 33850
 		"shields" 6500
 		"hull" 4000
 		"required crew" 10
@@ -962,6 +992,8 @@ ship "Saryd Visitor"
 		licenses
 			Coalition
 		"cost" 1982000
+		"operating costs" 39640
+		"maintenance costs" 19820
 		"shields" 4000
 		"hull" 2400
 		"required crew" 5

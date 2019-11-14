@@ -11,6 +11,8 @@
 outfit "Energy Blaster"
 	category "Guns"
 	"cost" 16000
+	"operating costs" 107
+	"maintenance costs" 53
 	thumbnail "outfit/blaster"
 	"mass" 5
 	"outfit space" -5
@@ -33,6 +35,8 @@ outfit "Energy Blaster"
 outfit "Blaster Turret"
 	category "Turrets"
 	"cost" 100000
+	"operating costs" 667
+	"maintenance costs" 333
 	thumbnail "outfit/blaster turret"
 	"mass" 15
 	"outfit space" -15
@@ -59,6 +63,8 @@ outfit "Blaster Turret"
 outfit "Quad Blaster Turret"
 	category "Turrets"
 	"cost" 230000
+	"operating costs" 1533
+	"maintenance costs" 767
 	thumbnail "outfit/quad blaster turret"
 	"mass" 25
 	"outfit space" -25
@@ -94,6 +100,8 @@ effect "blaster impact"
 outfit "Modified Blaster"
 	category "Guns"
 	"cost" 35000
+	"operating costs" 233
+	"maintenance costs" 117
 	thumbnail "outfit/mod blaster"
 	"mass" 6
 	"outfit space" -6
@@ -116,6 +124,8 @@ outfit "Modified Blaster"
 outfit "Modified Blaster Turret"
 	category "Turrets"
 	"cost" 170000
+	"operating costs" 1133
+	"maintenance costs" 567
 	thumbnail "outfit/mod blaster turret"
 	"mass" 18
 	"outfit space" -18
@@ -143,6 +153,8 @@ outfit "Modified Blaster Turret"
 outfit "Beam Laser"
 	category "Guns"
 	"cost" 29000
+	"operating costs" 193
+	"maintenance costs" 97
 	thumbnail "outfit/laser"
 	"mass" 8
 	"outfit space" -8
@@ -166,6 +178,8 @@ outfit "Beam Laser"
 outfit "Laser Turret"
 	category "Turrets"
 	"cost" 140000
+	"operating costs" 933
+	"maintenance costs" 467
 	thumbnail "outfit/laser turret"
 	"mass" 22
 	"outfit space" -22
@@ -203,6 +217,8 @@ effect "beam laser impact"
 outfit "Heavy Laser"
 	category "Guns"
 	"cost" 60000
+	"operating costs" 400
+	"maintenance costs" 200
 	thumbnail "outfit/heavy laser"
 	"mass" 15
 	"outfit space" -15
@@ -226,6 +242,8 @@ outfit "Heavy Laser"
 outfit "Heavy Laser Turret"
 	category "Turrets"
 	"cost" 320000
+	"operating costs" 2133
+	"maintenance costs" 1067
 	thumbnail "outfit/heavy laser turret"
 	"mass" 40
 	"outfit space" -40
@@ -264,6 +282,8 @@ effect "heavy laser impact"
 outfit "Electron Beam"
 	category "Guns"
 	"cost" 170000
+	"operating costs" 1133
+	"maintenance costs" 567
 	thumbnail "outfit/electron beam"
 	"mass" 21
 	"outfit space" -21
@@ -287,6 +307,8 @@ outfit "Electron Beam"
 outfit "Electron Turret"
 	category "Turrets"
 	"cost" 720000
+	"operating costs" 4800
+	"maintenance costs" 2400
 	thumbnail "outfit/electron turret"
 	"mass" 54
 	"outfit space" -54
@@ -324,6 +346,8 @@ effect "electron impact"
 outfit "Anti-Missile Turret"
 	category "Turrets"
 	"cost" 60000
+	"operating costs" 400
+	"maintenance costs" 200
 	thumbnail "outfit/anti-missile"
 	"mass" 16
 	"outfit space" -16
@@ -353,6 +377,8 @@ effect "small anti-missile"
 outfit "Heavy Anti-Missile Turret"
 	category "Turrets"
 	"cost" 150000
+	"operating costs" 1000
+	"maintenance costs" 500
 	thumbnail "outfit/heavy anti-missile"
 	"mass" 30
 	"outfit space" -30
@@ -382,6 +408,8 @@ effect "large anti-missile"
 outfit "Particle Cannon"
 	category "Guns"
 	"cost" 220000
+	"operating costs" 1467
+	"maintenance costs" 733
 	thumbnail "outfit/particle cannon"
 	"mass" 30
 	"outfit space" -30
@@ -417,6 +445,8 @@ effect "particle impact"
 outfit "Proton Gun"
 	category "Guns"
 	"cost" 150000
+	"operating costs" 1000
+	"maintenance costs" 500
 	thumbnail "outfit/proton gun"
 	"mass" 28
 	"outfit space" -28
@@ -460,6 +490,8 @@ effect "proton impact"
 outfit "Proton Turret"
 	category "Turrets"
 	"cost" 260000
+	"operating costs" 1733
+	"maintenance costs" 867
 	thumbnail "outfit/proton turret"
 	"mass" 34
 	"outfit space" -34
@@ -487,6 +519,8 @@ outfit "Proton Turret"
 outfit "Plasma Cannon"
 	category "Guns"
 	"cost" 190000
+	"operating costs" 1267
+	"maintenance costs" 633
 	thumbnail "outfit/plasma cannon"
 	"mass" 25
 	"outfit space" -25
@@ -512,6 +546,8 @@ outfit "Plasma Cannon"
 outfit "Plasma Turret"
 	category "Turrets"
 	"cost" 520000
+	"operating costs" 3467
+	"maintenance costs" 1733
 	thumbnail "outfit/plasma turret"
 	"mass" 60
 	"outfit space" -60
@@ -553,6 +589,8 @@ effect "plasma explosion"
 outfit "Flamethrower"
 	category "Secondary Weapons"
 	"cost" 190000
+	"operating costs" 1267
+	"maintenance costs" 633
 	thumbnail "outfit/flamethrower"
 	"mass" 9
 	"outfit space" -9
@@ -615,6 +653,8 @@ effect "flamethrower hit"
 outfit "Meteor Missile"
 	category "Ammunition"
 	"cost" 500
+	"operating costs" 3
+	"maintenance costs" 2
 	thumbnail "outfit/meteor"
 	"mass" .2
 	"meteor capacity" -1
@@ -625,6 +665,8 @@ outfit "Meteor Missile Box"
 	plural "Meteor Missile Boxes"
 	category "Ammunition"
 	"cost" 9000
+	"operating costs" 60
+	"maintenance costs" 30
 	thumbnail "outfit/meteor storage"
 	"mass" 2
 	"outfit space" -5
@@ -636,6 +678,8 @@ outfit "Meteor Missile Box"
 outfit "Meteor Missile Launcher"
 	category "Secondary Weapons"
 	"cost" 15000
+	"operating costs" 100
+	"maintenance costs" 50
 	thumbnail "outfit/meteor launcher"
 	"mass" 4
 	"outfit space" -10
@@ -680,6 +724,8 @@ effect "meteor fire"
 outfit "Sidewinder Missile"
 	category "Ammunition"
 	"cost" 900
+	"operating costs" 6
+	"maintenance costs" 3
 	thumbnail "outfit/sidewinder"
 	"mass" .2
 	"sidewinder capacity" -1
@@ -689,6 +735,8 @@ outfit "Sidewinder Missile"
 outfit "Sidewinder Missile Rack"
 	category "Ammunition"
 	"cost" 20000
+	"operating costs" 133
+	"maintenance costs" 67
 	thumbnail "outfit/sidewinder storage"
 	"mass" 2.4
 	"outfit space" -7
@@ -700,6 +748,8 @@ outfit "Sidewinder Missile Rack"
 outfit "Sidewinder Missile Launcher"
 	category "Secondary Weapons"
 	"cost" 60000
+	"operating costs" 400
+	"maintenance costs" 200
 	thumbnail "outfit/sidewinder launcher"
 	"mass" 5
 	"outfit space" -14
@@ -745,6 +795,8 @@ effect "sidewinder fire"
 outfit "Javelin"
 	category "Ammunition"
 	"cost" 50
+	"operating costs" 0
+	"maintenance costs" 1
 	thumbnail "outfit/javelin"
 	"mass" .04
 	"javelin capacity" -1
@@ -754,6 +806,8 @@ outfit "Javelin"
 outfit "Javelin Storage Crate"
 	category "Ammunition"
 	"cost" 5000
+	"operating costs" 33
+	"maintenance costs" 17
 	thumbnail "outfit/javelin storage"
 	"mass" 2
 	"outfit space" -6
@@ -765,6 +819,8 @@ outfit "Javelin Storage Crate"
 outfit "Javelin Pod"
 	category "Secondary Weapons"
 	"cost" 20000
+	"operating costs" 133
+	"maintenance costs" 67
 	thumbnail "outfit/javelin pod"
 	"mass" 4
 	"outfit space" -12
@@ -795,6 +851,8 @@ outfit "Torpedo"
 	plural "Torpedoes"
 	category "Ammunition"
 	"cost" 1400
+	"operating costs" 9
+	"maintenance costs" 5
 	thumbnail "outfit/torpedo"
 	"mass" .4
 	"torpedo capacity" -1
@@ -804,6 +862,8 @@ outfit "Torpedo"
 outfit "Torpedo Storage Rack"
 	category "Ammunition"
 	"cost" 21000
+	"operating costs" 140
+	"maintenance costs" 70
 	thumbnail "outfit/torpedo storage"
 	"mass" 3
 	"outfit space" -9
@@ -815,6 +875,8 @@ outfit "Torpedo Storage Rack"
 outfit "Torpedo Launcher"
 	category "Secondary Weapons"
 	"cost" 80000
+	"operating costs" 533
+	"maintenance costs" 267
 	thumbnail "outfit/torpedo launcher"
 	"mass" 13
 	"outfit space" -25
@@ -859,6 +921,8 @@ outfit "Typhoon Torpedo"
 	plural "Typhoon Torpedoes"
 	category "Ammunition"
 	"cost" 2700
+	"operating costs" 18
+	"maintenance costs" 9
 	thumbnail "outfit/typhoon"
 	"mass" .5
 	"typhoon capacity" -1
@@ -868,6 +932,8 @@ outfit "Typhoon Torpedo"
 outfit "Typhoon Storage Tube"
 	category "Ammunition"
 	"cost" 40500
+	"operating costs" 270
+	"maintenance costs" 135
 	thumbnail "outfit/typhoon storage"
 	"mass" 2.5
 	"outfit space" -10
@@ -879,6 +945,8 @@ outfit "Typhoon Storage Tube"
 outfit "Typhoon Launcher"
 	category "Secondary Weapons"
 	"cost" 260000
+	"operating costs" 1733
+	"maintenance costs" 867
 	thumbnail "outfit/typhoon launcher"
 	"mass" 20
 	"outfit space" -35
@@ -922,6 +990,8 @@ effect "typhoon fire"
 outfit "Heavy Rocket"
 	category "Ammunition"
 	"cost" 2000
+	"operating costs" 13
+	"maintenance costs" 7
 	thumbnail "outfit/rocket"
 	"mass" .5
 	"rocket capacity" -1
@@ -931,6 +1001,8 @@ outfit "Heavy Rocket"
 outfit "Heavy Rocket Rack"
 	category "Ammunition"
 	"cost" 20000
+	"operating costs" 133
+	"maintenance costs" 67
 	thumbnail "outfit/rocket storage"
 	"mass" 2
 	"outfit space" -7
@@ -942,6 +1014,8 @@ outfit "Heavy Rocket Rack"
 outfit "Heavy Rocket Launcher"
 	category "Secondary Weapons"
 	"cost" 40000
+	"operating costs" 267
+	"maintenance costs" 133
 	thumbnail "outfit/rocket launcher"
 	"mass" 10
 	"outfit space" -20
@@ -988,6 +1062,8 @@ effect "heavy rocket hit"
 outfit "Nuclear Missile"
 	category "Secondary Weapons"
 	"cost" 1000000
+	"operating costs" 6667
+	"maintenance costs" 3333
 	thumbnail "outfit/nuke"
 	"mass" 10
 	"outfit space" -10
@@ -1062,6 +1138,8 @@ outfit "Gatling Gun Ammo"
 	plural "Gatling Gun Ammo"
 	category "Ammunition"
 	"cost" 4
+	"operating costs" 0
+	"maintenance costs" 0
 	thumbnail "outfit/bullet"
 	"mass" .002
 	"gatling round capacity" -1
@@ -1072,6 +1150,8 @@ outfit "Bullet Boxes"
 	plural "Bullet Boxes"
 	category "Ammunition"
 	"cost" 3000
+	"operating costs" 20
+	"maintenance costs" 10
 	thumbnail "outfit/bullet storage"
 	"mass" 2
 	"outfit space" -5
@@ -1083,6 +1163,8 @@ outfit "Bullet Boxes"
 outfit "Gatling Gun"
 	category "Secondary Weapons"
 	"cost" 20000
+	"operating costs" 133
+	"maintenance costs" 67
 	thumbnail "outfit/gat"
 	"mass" 2
 	"outfit space" -8

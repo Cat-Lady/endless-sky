@@ -19,6 +19,8 @@ ship "Albatross"
 		licenses
 			"Remnant Capital"
 		"cost" 20250000
+		"operating costs" 270000
+		"maintenance costs" 135000
 		"shields" 34200
 		"hull" 12600
 		"required crew" 44
@@ -207,6 +209,8 @@ ship "Gascraft"
 	attributes
 		category Transport
 		"cost" 530000
+		"operating costs" 7067
+		"maintenance costs" 3533
 		"shields" 800
 		"hull" 1500
 		"required crew" 1
@@ -252,6 +256,8 @@ ship "Gull"
 		licenses
 			Remnant
 		"cost" 9500000
+		"operating costs" 126667
+		"maintenance costs" 63333
 		"shields" 6500
 		"hull" 2500
 		"required crew" 3
@@ -380,6 +386,8 @@ ship "Ibis"
 		licenses
 			"Remnant Capital"
 		"cost" 11627000
+		"operating costs" 155027
+		"maintenance costs" 77513
 		"shields" 14400
 		"hull" 6200
 		"required crew" 16
@@ -459,6 +467,8 @@ ship "Pelican"
 		licenses
 			"Remnant Capital"
 		"cost" 9900000
+		"operating costs" 132000
+		"maintenance costs" 66000
 		"shields" 11300
 		"hull" 5700
 		"required crew" 14
@@ -523,6 +533,8 @@ ship "Penguin"
 	attributes
 		category "Transport"
 		"cost" 2530000
+		"operating costs" 33733
+		"maintenance costs" 16867
 		"shields" 3000
 		"hull" 1500
 		"required crew" 1
@@ -584,6 +596,8 @@ ship "Petrel"
 		licenses
 			Remnant
 		"cost" 1141000
+		"operating costs" 15213
+		"maintenance costs" 7607
 		"shields" 1000
 		"hull" 2500
 		"cargo space" 15
@@ -640,6 +654,8 @@ ship "Starling"
 		licenses
 			Remnant
 		"cost" 8800000
+		"operating costs" 117333
+		"maintenance costs" 58667
 		"shields" 8800
 		"hull" 4900
 		"required crew" 6
@@ -787,6 +803,8 @@ ship "Tern"
 		licenses
 			Remnant
 		"cost" 860000
+		"operating costs" 11467
+		"maintenance costs" 5733
 		"shields" 500
 		"hull" 2500
 		"automaton" 1

@@ -19,7 +19,7 @@ minable "aluminum"
 outfit "Aluminum"
 	plural "Aluminum"
 	category "Special"
-	cost 1800
+	"cost" 1800
 	thumbnail "outfit/harvested aluminum"
 	"flotsam sprite" "effect/flotsam aluminum"
 	"mass" 1
@@ -38,7 +38,7 @@ minable "copper"
 outfit "Copper"
 	plural "Copper"
 	category "Special"
-	cost 3000
+	"cost" 3000
 	thumbnail "outfit/harvested copper"
 	"flotsam sprite" "effect/flotsam copper"
 	"mass" 1
@@ -57,7 +57,7 @@ minable "gold"
 outfit "Gold"
 	plural "Gold"
 	category "Special"
-	cost 8000
+	"cost" 8000
 	thumbnail "outfit/harvested gold"
 	"flotsam sprite" "effect/flotsam gold"
 	"mass" 1
@@ -76,7 +76,7 @@ minable "iron"
 outfit "Iron"
 	plural "Iron"
 	category "Special"
-	cost 1200
+	"cost" 1200
 	thumbnail "outfit/harvested iron"
 	"flotsam sprite" "effect/flotsam iron"
 	"mass" 1
@@ -95,7 +95,7 @@ minable "lead"
 outfit "Lead"
 	plural "Lead"
 	category "Special"
-	cost 900
+	"cost" 900
 	thumbnail "outfit/harvested lead"
 	"flotsam sprite" "effect/flotsam lead"
 	"mass" 1
@@ -114,7 +114,7 @@ minable "neodymium"
 outfit "Neodymium"
 	plural "Neodymium"
 	category "Special"
-	cost 3800
+	"cost" 3800
 	thumbnail "outfit/harvested neodymium"
 	"flotsam sprite" "effect/flotsam neodymium"
 	"mass" 1
@@ -133,7 +133,7 @@ minable "platinum"
 outfit "Platinum"
 	plural "Platinum"
 	category "Special"
-	cost 10000
+	"cost" 10000
 	thumbnail "outfit/harvested platinum"
 	"flotsam sprite" "effect/flotsam platinum"
 	"mass" 1
@@ -152,7 +152,7 @@ minable "silicon"
 outfit "Silicon"
 	plural "Silicon"
 	category "Special"
-	cost 400
+	"cost" 400
 	thumbnail "outfit/harvested silicon"
 	"flotsam sprite" "effect/flotsam silicon"
 	"mass" 1
@@ -171,7 +171,7 @@ minable "silver"
 outfit "Silver"
 	plural "Silver"
 	category "Special"
-	cost 6000
+	"cost" 6000
 	thumbnail "outfit/harvested silver"
 	"flotsam sprite" "effect/flotsam silver"
 	"mass" 1
@@ -190,7 +190,7 @@ minable "titanium"
 outfit "Titanium"
 	plural "Titanium"
 	category "Special"
-	cost 2500
+	"cost" 2500
 	thumbnail "outfit/harvested titanium"
 	"flotsam sprite" "effect/flotsam titanium"
 	"mass" 1
@@ -209,7 +209,7 @@ minable "tungsten"
 outfit "Tungsten"
 	plural "Tungsten"
 	category "Special"
-	cost 4500
+	"cost" 4500
 	thumbnail "outfit/harvested tungsten"
 	"flotsam sprite" "effect/flotsam tungsten"
 	"mass" 1
@@ -228,7 +228,7 @@ minable "uranium"
 outfit "Uranium"
 	plural "Uranium"
 	category "Special"
-	cost 5000
+	"cost" 5000
 	thumbnail "outfit/harvested uranium"
 	"flotsam sprite" "effect/flotsam uranium"
 	"mass" 1

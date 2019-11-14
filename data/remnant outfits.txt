@@ -15,6 +15,8 @@ outfit "Inhibitor Cannon"
 	licenses
 		Remnant
 	"cost" 471000
+	"operating costs" 6280
+	"maintenance costs" 3140
 	thumbnail "outfit/inhibitor cannon"
 	"mass" 16
 	"outfit space" -16
@@ -57,6 +59,8 @@ outfit "Thrasher Cannon"
 	licenses
 		Remnant
 	"cost" 218000
+	"operating costs" 2907
+	"maintenance costs" 1453
 	thumbnail "outfit/thrasher cannon"
 	"mass" 10
 	"outfit space" -10
@@ -95,6 +99,8 @@ outfit "Thrasher Turret"
 	licenses
 		Remnant
 	"cost" 980000
+	"operating costs" 13067
+	"maintenance costs" 6533
 	thumbnail "outfit/thrasher turret"
 	"mass" 49
 	"outfit space" -49
@@ -127,6 +133,8 @@ outfit "Point Defense Turret"
 	licenses
 		Remnant
 	"cost" 1120000
+	"operating costs" 14933
+	"maintenance costs" 7467
 	thumbnail "outfit/point defense"
 	"mass" 33
 	"outfit space" -33
@@ -175,6 +183,8 @@ outfit "EMP Torpedo"
 	licenses
 		Remnant
 	"cost" 4400
+	"operating costs" 59
+	"maintenance costs" 29
 	thumbnail "outfit/emp torpedo"
 	"mass" 1
 	"emp torpedo capacity" -1
@@ -186,6 +196,8 @@ outfit "EMP Torpedo Bay"
 	licenses
 		Remnant
 	"cost" 583000
+	"operating costs" 7773
+	"maintenance costs" 3887
 	thumbnail "outfit/emp torpedo bay"
 	"mass" 9
 	"outfit space" -18
@@ -265,6 +277,8 @@ outfit "Crystal Capacitor"
 	licenses
 		Remnant
 	"cost" 113000
+	"operating costs" 1507
+	"maintenance costs" 753
 	thumbnail "outfit/crystal capacitor"
 	"mass" 12
 	"outfit space" -12
@@ -280,6 +294,8 @@ outfit "Millennium Cell"
 	licenses
 		Remnant
 	"cost" 553000
+	"operating costs" 7373
+	"maintenance costs" 3687
 	thumbnail "outfit/millennium cell"
 	"mass" 29
 	"outfit space" -29
@@ -293,6 +309,8 @@ outfit "Epoch Cell"
 	licenses
 		Remnant
 	"cost" 2123000
+	"operating costs" 28307
+	"maintenance costs" 14153
 	thumbnail "outfit/epoch cell"
 	"mass" 98
 	"outfit space" -98
@@ -306,6 +324,8 @@ outfit "Aeon Cell"
 	licenses
 		Remnant
 	"cost" 4384000
+	"operating costs" 58453
+	"maintenance costs" 29227
 	thumbnail "outfit/aeon cell"
 	"mass" 160
 	"outfit space" -160
@@ -319,6 +339,8 @@ outfit "Thermoelectric Cooler"
 	licenses
 		Remnant
 	"cost" 100000
+	"operating costs" 1333
+	"maintenance costs" 667
 	thumbnail "outfit/thermoelectric cooler"
 	"mass" 4
 	"outfit space" -4
@@ -332,6 +354,8 @@ outfit "Emergency Ramscoop"
 	licenses
 		Remnant
 	"cost" 72000
+	"operating costs" 960
+	"maintenance costs" 480
 	thumbnail "outfit/emergency ramscoop"
 	"mass" 4
 	"outfit space" -4
@@ -341,6 +365,8 @@ outfit "Emergency Ramscoop"
 outfit "Quantum Key Stone"
 	category "Systems"
 	"cost" 240000
+	"operating costs" 3200
+	"maintenance costs" 1600
 	thumbnail "outfit/keystone"
 	"mass" 1
 	"outfit space" -1
@@ -352,6 +378,8 @@ outfit "Salvage Scanner"
 	licenses
 		Remnant
 	"cost" 410000
+	"operating costs" 5467
+	"maintenance costs" 2733
 	thumbnail "outfit/salvage scanner"
 	"mass" 7
 	"outfit space" -7
@@ -370,6 +398,8 @@ outfit "Anvil-Class Engine"
 	licenses
 		Remnant
 	"cost" 290000
+	"operating costs" 3867
+	"maintenance costs" 1933
 	thumbnail "outfit/tiny remnant engine"
 	"mass" 26
 	"outfit space" -26
@@ -390,6 +420,8 @@ outfit "Crucible-Class Thruster"
 	licenses
 		Remnant
 	"cost" 200000
+	"operating costs" 2667
+	"maintenance costs" 1333
 	thumbnail "outfit/small remnant thruster"
 	"mass" 20
 	"outfit space" -20
@@ -407,6 +439,8 @@ outfit "Forge-Class Thruster"
 	licenses
 		Remnant
 	"cost" 441000
+	"operating costs" 5880
+	"maintenance costs" 2940
 	thumbnail "outfit/medium remnant thruster"
 	"mass" 39
 	"outfit space" -39
@@ -424,6 +458,8 @@ outfit "Smelter-Class Thruster"
 	licenses
 		Remnant
 	"cost" 984000
+	"operating costs" 13120
+	"maintenance costs" 6560
 	thumbnail "outfit/large remnant thruster"
 	"mass" 76
 	"outfit space" -76
@@ -441,6 +477,8 @@ outfit "Crucible-Class Steering"
 	licenses
 		Remnant
 	"cost" 172000
+	"operating costs" 2293
+	"maintenance costs" 1147
 	thumbnail "outfit/small remnant steering"
 	"mass" 14
 	"outfit space" -14
@@ -455,6 +493,8 @@ outfit "Forge-Class Steering"
 	licenses
 		Remnant
 	"cost" 393000
+	"operating costs" 5240
+	"maintenance costs" 2620
 	thumbnail "outfit/medium remnant steering"
 	"mass" 28
 	"outfit space" -28
@@ -469,6 +509,8 @@ outfit "Smelter-Class Steering"
 	licenses
 		Remnant
 	"cost" 880000
+	"operating costs" 11733
+	"maintenance costs" 5867
 	thumbnail "outfit/large remnant steering"
 	"mass" 55
 	"outfit space" -55
@@ -483,6 +525,8 @@ outfit "Tuning Rifle"
 	licenses
 		Remnant
 	"cost" 22000
+	"operating costs" 293
+	"maintenance costs" 147
 	thumbnail "outfit/remnant rifle"
 	"capture attack" 1.2
 	"capture defense" 1.8
@@ -494,6 +538,8 @@ outfit "Void Rifle"
 	licenses
 		Remnant
 	"cost" 1000000
+	"operating costs" 13333
+	"maintenance costs" 6667
 	thumbnail "outfit/void rifle"
 	"capture attack" 20
 	"capture defense" 20

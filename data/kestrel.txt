@@ -217,6 +217,8 @@ ship "Unknown Ship Type"
 	attributes
 		category "Heavy Warship"
 		"cost" 14700000
+		"operating costs" 98000
+		"maintenance costs" 49000
 		"shields" 19400
 		"hull" 7200
 		"required crew" 64
@@ -274,6 +276,8 @@ ship "Kestrel"
 	attributes
 		category "Heavy Warship"
 		"cost" 14700000
+		"operating costs" 98000
+		"maintenance costs" 49000
 		"shields" 19400
 		"hull" 7200
 		"required crew" 64

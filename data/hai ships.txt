@@ -14,6 +14,8 @@ ship "Aphid"
 	attributes
 		category "Light Freighter"
 		"cost" 570000
+		"operating costs" 5700
+		"maintenance costs" 2850
 		"shields" 1700
 		"hull" 1400
 		"required crew" 1
@@ -70,6 +72,8 @@ ship "Centipede"
 	attributes
 		category "Transport"
 		"cost" 6300000
+		"operating costs" 63000
+		"maintenance costs" 31500
 		"shields" 6600
 		"hull" 2400
 		"required crew" 35
@@ -144,6 +148,8 @@ ship "Flea"
 	attributes
 		category "Drone"
 		"cost" 122400
+		"operating costs" 1224
+		"maintenance costs" 612
 		"shields" 200
 		"hull" 700
 		"mass" 21
@@ -179,6 +185,8 @@ ship "Geocoris"
 	attributes
 		category "Heavy Freighter"
 		"cost" 12540000
+		"operating costs" 125400
+		"maintenance costs" 62700
 		"shields" 13300
 		"hull" 6200
 		"required crew" 15
@@ -255,6 +263,8 @@ ship "Grasshopper"
 	attributes
 		category "Interceptor"
 		"cost" 684000
+		"operating costs" 6840
+		"maintenance costs" 3420
 		"shields" 3300
 		"hull" 600
 		"required crew" 1
@@ -315,6 +325,8 @@ ship "Lightning Bug"
 	attributes
 		category "Light Warship"
 		"cost" 3200000
+		"operating costs" 32000
+		"maintenance costs" 16000
 		"shields" 6700
 		"hull" 1700
 		"required crew" 4
@@ -378,6 +390,8 @@ ship "Pond Strider"
 	attributes
 		category "Medium Warship"
 		"cost" 5250000
+		"operating costs" 52500
+		"maintenance costs" 26250
 		"shields" 10000
 		"hull" 3000
 		"required crew" 9
@@ -445,6 +459,8 @@ ship "Shield Beetle"
 	attributes
 		category "Heavy Warship"
 		"cost" 17900000
+		"operating costs" 179000
+		"maintenance costs" 89500
 		"shields" 32000
 		"hull" 9800
 		"required crew" 47
@@ -600,6 +616,8 @@ ship "Solifuge"
 		licenses
 			"Unfettered Militia"
 		"cost" 22800000
+		"operating costs" 228000
+		"maintenance costs" 114000
 		"shields" 37800
 		"hull" 11000
 		"required crew" 62
@@ -771,6 +789,8 @@ ship "Violin Spider"
 	attributes
 		category "Fighter"
 		"cost" 139000
+		"operating costs" 1390
+		"maintenance costs" 695
 		"shields" 1400
 		"hull" 600
 		"required crew" 1
@@ -824,6 +844,8 @@ ship "Water Bug"
 	attributes
 		category "Heavy Freighter"
 		"cost" 6500000
+		"operating costs" 65000
+		"maintenance costs" 32500
 		"shields" 7900
 		"hull" 4500
 		"required crew" 5

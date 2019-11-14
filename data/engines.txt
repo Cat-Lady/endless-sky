@@ -11,6 +11,8 @@
 outfit "Afterburner"
 	category "Engines"
 	"cost" 70000
+	"operating costs" 467
+	"maintenance costs" 233
 	thumbnail "outfit/afterburner"
 	"mass" 15
 	"outfit space" -15
@@ -36,6 +38,8 @@ effect "afterburner"
 outfit "Ionic Afterburner"
 	category "Engines"
 	"cost" 340000
+	"operating costs" 2267
+	"maintenance costs" 1133
 	thumbnail "outfit/ionic afterburner"
 	"mass" 24
 	"outfit space" -24
@@ -63,6 +67,8 @@ effect "ionic afterburner"
 outfit "X1050 Ion Engines"
 	category "Engines"
 	"cost" 20000
+	"operating costs" 133
+	"maintenance costs" 67
 	thumbnail "outfit/tiny ion engines"
 	"mass" 20
 	"outfit space" -20
@@ -83,6 +89,8 @@ outfit "X1050 Ion Engines"
 outfit "X1700 Ion Thruster"
 	category "Engines"
 	"cost" 12000
+	"operating costs" 80
+	"maintenance costs" 40
 	thumbnail "outfit/tiny ion thruster"
 	"mass" 16
 	"outfit space" -16
@@ -99,6 +107,8 @@ outfit "X1700 Ion Thruster"
 outfit "X2700 Ion Thruster"
 	category "Engines"
 	"cost" 26000
+	"operating costs" 173
+	"maintenance costs" 87
 	thumbnail "outfit/small ion thruster"
 	"mass" 27
 	"outfit space" -27
@@ -115,6 +125,8 @@ outfit "X2700 Ion Thruster"
 outfit "X3700 Ion Thruster"
 	category "Engines"
 	"cost" 58000
+	"operating costs" 387
+	"maintenance costs" 193
 	thumbnail "outfit/medium ion thruster"
 	"mass" 46
 	"outfit space" -46
@@ -131,6 +143,8 @@ outfit "X3700 Ion Thruster"
 outfit "X4700 Ion Thruster"
 	category "Engines"
 	"cost" 128000
+	"operating costs" 853
+	"maintenance costs" 427
 	thumbnail "outfit/large ion thruster"
 	"mass" 79
 	"outfit space" -79
@@ -147,6 +161,8 @@ outfit "X4700 Ion Thruster"
 outfit "X5700 Ion Thruster"
 	category "Engines"
 	"cost" 281000
+	"operating costs" 1873
+	"maintenance costs" 937
 	thumbnail "outfit/huge ion thruster"
 	"mass" 134
 	"outfit space" -134
@@ -164,6 +180,8 @@ outfit "X5700 Ion Thruster"
 outfit "X1200 Ion Steering"
 	category "Engines"
 	"cost" 10000
+	"operating costs" 67
+	"maintenance costs" 33
 	thumbnail "outfit/tiny ion steering"
 	"mass" 12
 	"outfit space" -12
@@ -177,6 +195,8 @@ outfit "X1200 Ion Steering"
 outfit "X2200 Ion Steering"
 	category "Engines"
 	"cost" 21000
+	"operating costs" 140
+	"maintenance costs" 70
 	thumbnail "outfit/small ion steering"
 	"mass" 20
 	"outfit space" -20
@@ -190,6 +210,8 @@ outfit "X2200 Ion Steering"
 outfit "X3200 Ion Steering"
 	category "Engines"
 	"cost" 46000
+	"operating costs" 307
+	"maintenance costs" 153
 	thumbnail "outfit/medium ion steering"
 	"mass" 35
 	"outfit space" -35
@@ -203,6 +225,8 @@ outfit "X3200 Ion Steering"
 outfit "X4200 Ion Steering"
 	category "Engines"
 	"cost" 102000
+	"operating costs" 680
+	"maintenance costs" 340
 	thumbnail "outfit/large ion steering"
 	"mass" 59
 	"outfit space" -59
@@ -216,6 +240,8 @@ outfit "X4200 Ion Steering"
 outfit "X5200 Ion Steering"
 	category "Engines"
 	"cost" 225000
+	"operating costs" 1500
+	"maintenance costs" 750
 	thumbnail "outfit/huge ion steering"
 	"mass" 100
 	"outfit space" -100
@@ -231,6 +257,8 @@ outfit "X5200 Ion Steering"
 outfit "Chipmunk Plasma Thruster"
 	category "Engines"
 	"cost" 20000
+	"operating costs" 133
+	"maintenance costs" 67
 	thumbnail "outfit/tiny plasma thruster"
 	"mass" 20
 	"outfit space" -20
@@ -247,6 +275,8 @@ outfit "Chipmunk Plasma Thruster"
 outfit "Greyhound Plasma Thruster"
 	category "Engines"
 	"cost" 45000
+	"operating costs" 300
+	"maintenance costs" 150
 	thumbnail "outfit/small plasma thruster"
 	"mass" 34
 	"outfit space" -34
@@ -263,6 +293,8 @@ outfit "Greyhound Plasma Thruster"
 outfit "Impala Plasma Thruster"
 	category "Engines"
 	"cost" 99000
+	"operating costs" 660
+	"maintenance costs" 330
 	thumbnail "outfit/medium plasma thruster"
 	"mass" 58
 	"outfit space" -58
@@ -279,6 +311,8 @@ outfit "Impala Plasma Thruster"
 outfit "Orca Plasma Thruster"
 	category "Engines"
 	"cost" 217000
+	"operating costs" 1447
+	"maintenance costs" 723
 	thumbnail "outfit/large plasma thruster"
 	"mass" 98
 	"outfit space" -98
@@ -295,6 +329,8 @@ outfit "Orca Plasma Thruster"
 outfit "Tyrant Plasma Thruster"
 	category "Engines"
 	"cost" 478000
+	"operating costs" 3187
+	"maintenance costs" 1593
 	thumbnail "outfit/huge plasma thruster"
 	"mass" 167
 	"outfit space" -167
@@ -312,6 +348,8 @@ outfit "Tyrant Plasma Thruster"
 outfit "Chipmunk Plasma Steering"
 	category "Engines"
 	"cost" 16000
+	"operating costs" 107
+	"maintenance costs" 53
 	thumbnail "outfit/tiny plasma steering"
 	"mass" 15
 	"outfit space" -15
@@ -325,6 +363,8 @@ outfit "Chipmunk Plasma Steering"
 outfit "Greyhound Plasma Steering"
 	category "Engines"
 	"cost" 36000
+	"operating costs" 240
+	"maintenance costs" 120
 	thumbnail "outfit/small plasma steering"
 	"mass" 26
 	"outfit space" -26
@@ -338,6 +378,8 @@ outfit "Greyhound Plasma Steering"
 outfit "Impala Plasma Steering"
 	category "Engines"
 	"cost" 79000
+	"operating costs" 527
+	"maintenance costs" 263
 	thumbnail "outfit/medium plasma steering"
 	"mass" 43
 	"outfit space" -43
@@ -351,6 +393,8 @@ outfit "Impala Plasma Steering"
 outfit "Orca Plasma Steering"
 	category "Engines"
 	"cost" 174000
+	"operating costs" 1160
+	"maintenance costs" 580
 	thumbnail "outfit/large plasma steering"
 	"mass" 74
 	"outfit space" -74
@@ -364,6 +408,8 @@ outfit "Orca Plasma Steering"
 outfit "Tyrant Plasma Steering"
 	category "Engines"
 	"cost" 382000
+	"operating costs" 2547
+	"maintenance costs" 1273
 	thumbnail "outfit/huge plasma steering"
 	"mass" 125
 	"outfit space" -125
@@ -379,6 +425,8 @@ outfit "Tyrant Plasma Steering"
 outfit "A120 Atomic Thruster"
 	category "Engines"
 	"cost" 140000
+	"operating costs" 933
+	"maintenance costs" 467
 	thumbnail "outfit/tiny atomic thruster"
 	"mass" 22
 	"outfit space" -22
@@ -394,6 +442,8 @@ outfit "A120 Atomic Thruster"
 outfit "A250 Atomic Thruster"
 	category "Engines"
 	"cost" 280000
+	"operating costs" 1867
+	"maintenance costs" 933
 	thumbnail "outfit/small atomic thruster"
 	"mass" 34
 	"outfit space" -34
@@ -409,6 +459,8 @@ outfit "A250 Atomic Thruster"
 outfit "A370 Atomic Thruster"
 	category "Engines"
 	"cost" 560000
+	"operating costs" 3733
+	"maintenance costs" 1867
 	thumbnail "outfit/medium atomic thruster"
 	"mass" 53
 	"outfit space" -53
@@ -424,6 +476,8 @@ outfit "A370 Atomic Thruster"
 outfit "A520 Atomic Thruster"
 	category "Engines"
 	"cost" 1120000
+	"operating costs" 7467
+	"maintenance costs" 3733
 	thumbnail "outfit/large atomic thruster"
 	"mass" 82
 	"outfit space" -82
@@ -439,6 +493,8 @@ outfit "A520 Atomic Thruster"
 outfit "A860 Atomic Thruster"
 	category "Engines"
 	"cost" 2240000
+	"operating costs" 14933
+	"maintenance costs" 7467
 	thumbnail "outfit/huge atomic thruster"
 	"mass" 127
 	"outfit space" -127
@@ -455,6 +511,8 @@ outfit "A860 Atomic Thruster"
 outfit "A125 Atomic Steering"
 	category "Engines"
 	"cost" 120000
+	"operating costs" 800
+	"maintenance costs" 400
 	thumbnail "outfit/tiny atomic steering"
 	"mass" 16
 	"outfit space" -16
@@ -467,6 +525,8 @@ outfit "A125 Atomic Steering"
 outfit "A255 Atomic Steering"
 	category "Engines"
 	"cost" 240000
+	"operating costs" 1600
+	"maintenance costs" 800
 	thumbnail "outfit/small atomic steering"
 	"mass" 25
 	"outfit space" -25
@@ -479,6 +539,8 @@ outfit "A255 Atomic Steering"
 outfit "A375 Atomic Steering"
 	category "Engines"
 	"cost" 480000
+	"operating costs" 3200
+	"maintenance costs" 1600
 	thumbnail "outfit/medium atomic steering"
 	"mass" 38
 	"outfit space" -38
@@ -491,6 +553,8 @@ outfit "A375 Atomic Steering"
 outfit "A525 Atomic Steering"
 	category "Engines"
 	"cost" 960000
+	"operating costs" 6400
+	"maintenance costs" 3200
 	thumbnail "outfit/large atomic steering"
 	"mass" 60
 	"outfit space" -60
@@ -503,6 +567,8 @@ outfit "A525 Atomic Steering"
 outfit "A865 Atomic Steering"
 	category "Engines"
 	"cost" 1920000
+	"operating costs" 12800
+	"maintenance costs" 6400
 	thumbnail "outfit/huge atomic steering"
 	"mass" 92
 	"outfit space" -92
@@ -516,6 +582,8 @@ outfit "A865 Atomic Steering"
 outfit "AR120 Reverse Thruster"
 	category "Engines"
 	"cost" 140000
+	"operating costs" 933
+	"maintenance costs" 467
 	thumbnail "outfit/reverse thruster"
 	"mass" 22
 	"outfit space" -22

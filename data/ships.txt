@@ -14,6 +14,8 @@ ship "Aerie"
 	attributes
 		category "Medium Warship"
 		"cost" 3500000
+		"operating costs" 23333
+		"maintenance costs" 11667
 		"shields" 5700
 		"hull" 1900
 		"required crew" 10
@@ -76,6 +78,8 @@ ship "Argosy"
 	attributes
 		category "Light Freighter"
 		"cost" 1960000
+		"operating costs" 13067
+		"maintenance costs" 6533
 		"shields" 4200
 		"hull" 2600
 		"required crew" 4
@@ -136,6 +140,8 @@ ship "Arrow"
 	attributes
 		category "Transport"
 		"cost" 1200000
+		"operating costs" 8000
+		"maintenance costs" 4000
 		"shields" 2000
 		"hull" 400
 		"required crew" 1
@@ -190,6 +196,8 @@ ship "Bactrian"
 			City-Ship
 		category "Heavy Warship"
 		"cost" 17600000
+		"operating costs" 117333
+		"maintenance costs" 58667
 		"shields" 17500
 		"hull" 8600
 		"required crew" 70
@@ -260,6 +268,8 @@ ship "Barb"
 	attributes
 		category "Fighter"
 		"cost" 50000
+		"operating costs" 333
+		"maintenance costs" 167
 		"shields" 800
 		"hull" 200
 		"required crew" 1
@@ -302,6 +312,8 @@ ship "Barb" "Barb (Proton)"
 	attributes
 		category "Fighter"
 		"cost" 50000
+		"operating costs" 333
+		"maintenance costs" 167
 		"shields" 800
 		"hull" 200
 		"required crew" 1
@@ -342,6 +354,8 @@ ship "Bastion"
 	attributes
 		category "Medium Warship"
 		"cost" 3860000
+		"operating costs" 25733
+		"maintenance costs" 12867
 		"shields" 7500
 		"hull" 4700
 		"required crew" 17
@@ -406,6 +420,8 @@ ship "Behemoth"
 	attributes
 		category "Heavy Freighter"
 		"cost" 10800000
+		"operating costs" 72000
+		"maintenance costs" 36000
 		"shields" 7600
 		"hull" 6300
 		"required crew" 12
@@ -467,6 +483,8 @@ ship "Berserker"
 	attributes
 		category "Interceptor"
 		"cost" 520000
+		"operating costs" 3467
+		"maintenance costs" 1733
 		"shields" 2200
 		"hull" 500
 		"required crew" 1
@@ -518,6 +536,8 @@ ship "Blackbird"
 	attributes
 		category "Transport"
 		"cost" 2230000
+		"operating costs" 14867
+		"maintenance costs" 7433
 		"shields" 4400
 		"hull" 900
 		"required crew" 3
@@ -570,6 +590,8 @@ ship "Bounder"
 	attributes
 		category "Transport"
 		"cost" 1140000
+		"operating costs" 7600
+		"maintenance costs" 3800
 		"shields" 2200
 		"hull" 700
 		"required crew" 1
@@ -617,6 +639,8 @@ ship "Boxwing"
 	attributes
 		category "Fighter"
 		"cost" 369000
+		"operating costs" 2460
+		"maintenance costs" 1230
 		"shields" 400
 		"hull" 800
 		"required crew" 1
@@ -654,6 +678,8 @@ ship "Bulk Freighter"
 	attributes
 		category "Heavy Freighter"
 		"cost" 9400000
+		"operating costs" 62667
+		"maintenance costs" 31333
 		"shields" 4000
 		"hull" 7600
 		"required crew" 6
@@ -716,6 +742,8 @@ ship "Carrier"
 			Navy
 			Carrier
 		"cost" 15200000
+		"operating costs" 101333
+		"maintenance costs" 50667
 		"shields" 21400
 		"hull" 8300
 		"required crew" 111
@@ -799,6 +827,8 @@ ship "Class C Freighter"
 	attributes
 		category "Heavy Warship"
 		"cost" 11400000
+		"operating costs" 76000
+		"maintenance costs" 38000
 		"shields" 13500
 		"hull" 7600
 		"required crew" 18
@@ -865,6 +895,8 @@ ship "Clipper"
 	attributes
 		category "Light Freighter"
 		"cost" 900000
+		"operating costs" 6000
+		"maintenance costs" 3000
 		"shields" 2700
 		"hull" 800
 		"required crew" 3
@@ -919,6 +951,8 @@ ship "Combat Drone"
 		licenses
 			Navy
 		"cost" 83000
+		"operating costs" 553
+		"maintenance costs" 277
 		"hull" 700
 		"automaton" 1
 		"mass" 20
@@ -955,6 +989,8 @@ ship "Corvette"
 	attributes
 		category "Medium Warship"
 		"cost" 4400000
+		"operating costs" 29333
+		"maintenance costs" 14667
 		"shields" 6800
 		"hull" 800
 		"required crew" 8
@@ -1018,6 +1054,8 @@ ship "Cruiser"
 			Navy
 			Cruiser
 		"cost" 11200000
+		"operating costs" 74667
+		"maintenance costs" 37333
 		"shields" 19600
 		"hull" 6400
 		"required crew" 81
@@ -1091,6 +1129,8 @@ ship "Dagger"
 	attributes
 		category "Fighter"
 		"cost" 129000
+		"operating costs" 860
+		"maintenance costs" 430
 		"shields" 1000
 		"hull" 300
 		"required crew" 1
@@ -1136,6 +1176,8 @@ ship "Dreadnought"
 	attributes
 		category "Heavy Warship"
 		"cost" 11900000
+		"operating costs" 79333
+		"maintenance costs" 39667
 		"shields" 18100
 		"hull" 7300
 		"required crew" 84
@@ -1202,6 +1244,8 @@ ship "Falcon"
 	attributes
 		category "Heavy Warship"
 		"cost" 10900000
+		"operating costs" 72667
+		"maintenance costs" 36333
 		"shields" 12800
 		"hull" 3700
 		"required crew" 52
@@ -1266,6 +1310,8 @@ ship "Finch"
 	attributes
 		category "Fighter"
 		"cost" 126000
+		"operating costs" 840
+		"maintenance costs" 420
 		"shields" 1100
 		"hull" 200
 		"required crew" 1
@@ -1310,6 +1356,8 @@ ship "Firebird"
 	attributes
 		category "Medium Warship"
 		"cost" 3700000
+		"operating costs" 24667
+		"maintenance costs" 12333
 		"shields" 5800
 		"hull" 3400
 		"required crew" 7
@@ -1369,6 +1417,8 @@ ship "Flivver"
 	attributes
 		category "Transport"
 		"cost" 180000
+		"operating costs" 1200
+		"maintenance costs" 600
 		"shields" 1400
 		"hull" 200
 		"required crew" 1
@@ -1415,6 +1465,8 @@ ship "Freighter"
 	attributes
 		category "Light Freighter"
 		"cost" 730000
+		"operating costs" 4867
+		"maintenance costs" 2433
 		"shields" 2000
 		"hull" 2000
 		"required crew" 2
@@ -1468,6 +1520,8 @@ ship "Frigate"
 		licenses
 			Navy
 		"cost" 5200000
+		"operating costs" 34667
+		"maintenance costs" 17333
 		"shields" 8000
 		"hull" 2500
 		"required crew" 21
@@ -1532,6 +1586,8 @@ ship "Fury"
 	attributes
 		category "Interceptor"
 		"cost" 490000
+		"operating costs" 3267
+		"maintenance costs" 1633
 		"shields" 2000
 		"hull" 400
 		"required crew" 1
@@ -1584,6 +1640,8 @@ ship "Gunboat"
 		licenses
 			Navy
 		"cost" 3200000
+		"operating costs" 21333
+		"maintenance costs" 10667
 		"shields" 5800
 		"hull" 1400
 		"required crew" 7
@@ -1639,6 +1697,8 @@ ship "Hauler"
 	attributes
 		category "Light Freighter"
 		"cost" 1430000
+		"operating costs" 9533
+		"maintenance costs" 4767
 		"shields" 2500
 		"hull" 3700
 		"required crew" 3
@@ -1697,6 +1757,8 @@ ship "Hauler II"
 	attributes
 		category "Heavy Freighter"
 		"cost" 2340000
+		"operating costs" 15600
+		"maintenance costs" 7800
 		"shields" 2900
 		"hull" 5200
 		"required crew" 3
@@ -1756,6 +1818,8 @@ ship "Hauler III"
 	attributes
 		category "Heavy Freighter"
 		"cost" 3260000
+		"operating costs" 21733
+		"maintenance costs" 10867
 		"shields" 3300
 		"hull" 6700
 		"required crew" 3
@@ -1815,6 +1879,8 @@ ship "Hawk"
 	attributes
 		category "Interceptor"
 		"cost" 670000
+		"operating costs" 4467
+		"maintenance costs" 2233
 		"shields" 2500
 		"hull" 500
 		"required crew" 2
@@ -1862,6 +1928,8 @@ ship "Headhunter"
 	attributes
 		category "Light Warship"
 		"cost" 1850000
+		"operating costs" 12333
+		"maintenance costs" 6167
 		"shields" 3800
 		"hull" 700
 		"required crew" 2
@@ -1914,6 +1982,8 @@ ship "Heavy Shuttle"
 	attributes
 		category "Transport"
 		"cost" 320000
+		"operating costs" 2133
+		"maintenance costs" 1067
 		"shields" 700
 		"hull" 700
 		"required crew" 1
@@ -1957,6 +2027,8 @@ ship "Lance"
 	attributes
 		category "Fighter"
 		"cost" 93000
+		"operating costs" 620
+		"maintenance costs" 310
 		"shields" 800
 		"hull" 400
 		"required crew" 1
@@ -2001,6 +2073,8 @@ ship "Leviathan"
 	attributes
 		category "Heavy Warship"
 		"cost" 9800000
+		"operating costs" 65333
+		"maintenance costs" 32667
 		"shields" 14400
 		"hull" 5000
 		"required crew" 43
@@ -2061,6 +2135,8 @@ ship "Manta"
 	attributes
 		category "Medium Warship"
 		"cost" 3400000
+		"operating costs" 22667
+		"maintenance costs" 11333
 		"shields" 5900
 		"hull" 1500
 		"required crew" 6
@@ -2118,6 +2194,8 @@ ship "Modified Argosy"
 	attributes
 		category "Light Warship"
 		"cost" 1960000
+		"operating costs" 13067
+		"maintenance costs" 6533
 		"shields" 4800
 		"hull" 1900
 		"required crew" 5
@@ -2180,6 +2258,8 @@ ship "Mule"
 	attributes
 		category "Medium Warship"
 		"cost" 4080000
+		"operating costs" 27200
+		"maintenance costs" 13600
 		"shields" 5400
 		"hull" 4400
 		"required crew" 14
@@ -2241,6 +2321,8 @@ ship "Nest"
 	attributes
 		category "Medium Warship"
 		"cost" 2500000
+		"operating costs" 16667
+		"maintenance costs" 8333
 		"shields" 2500
 		"hull" 3700
 		"required crew" 5
@@ -2302,6 +2384,8 @@ ship "Osprey"
 	attributes
 		category "Medium Warship"
 		"cost" 4200000
+		"operating costs" 28000
+		"maintenance costs" 14000
 		"shields" 7200
 		"hull" 1600
 		"required crew" 9
@@ -2361,6 +2445,8 @@ ship "Protector"
 	attributes
 		category "Heavy Warship"
 		"cost" 5500000
+		"operating costs" 36667
+		"maintenance costs" 18333
 		"shields" 9500
 		"hull" 6500
 		"required crew" 30
@@ -2422,6 +2508,8 @@ ship "Quicksilver"
 	attributes
 		category "Light Warship"
 		"cost" 1090000
+		"operating costs" 7267
+		"maintenance costs" 3633
 		"shields" 3000
 		"hull" 800
 		"required crew" 3
@@ -2471,6 +2559,8 @@ ship "Rainmaker"
 		licenses
 			Navy
 		"cost" 1580000
+		"operating costs" 10533
+		"maintenance costs" 5267
 		"shields" 3500
 		"hull" 1200
 		"required crew" 7
@@ -2527,6 +2617,8 @@ ship "Raven"
 	attributes
 		category "Light Warship"
 		"cost" 2200000
+		"operating costs" 14667
+		"maintenance costs" 7333
 		"shields" 4700
 		"hull" 1400
 		"required crew" 6
@@ -2581,6 +2673,8 @@ ship "Roost"
 	attributes
 		category "Medium Warship"
 		"cost" 3000000
+		"operating costs" 20000
+		"maintenance costs" 10000
 		"shields" 2900
 		"hull" 5200
 		"required crew" 7
@@ -2645,6 +2739,8 @@ ship "Scout"
 	attributes
 		category "Transport"
 		"cost" 850000
+		"operating costs" 5667
+		"maintenance costs" 2833
 		"shields" 1200
 		"hull" 400
 		"required crew" 2
@@ -2700,6 +2796,8 @@ ship "Shuttle"
 	attributes
 		category "Transport"
 		"cost" 180000
+		"operating costs" 1200
+		"maintenance costs" 600
 		"shields" 500
 		"hull" 600
 		"required crew" 1
@@ -2745,6 +2843,8 @@ ship "Skein"
 		licenses
 			"Militia Carrier"
 		"cost" 3500000
+		"operating costs" 23333
+		"maintenance costs" 11667
 		"shields" 3300
 		"hull" 6700
 		"required crew" 7
@@ -2811,6 +2911,8 @@ ship "Sparrow"
 	attributes
 		category "Interceptor"
 		"cost" 225000
+		"operating costs" 1500
+		"maintenance costs" 750
 		"shields" 1200
 		"hull" 300
 		"required crew" 1
@@ -2857,6 +2959,8 @@ ship "Splinter"
 	attributes
 		category "Medium Warship"
 		"cost" 3100000
+		"operating costs" 20667
+		"maintenance costs" 10333
 		"shields" 5200
 		"hull" 1700
 		"required crew" 7
@@ -2915,6 +3019,8 @@ ship "Star Barge"
 	attributes
 		category "Light Freighter"
 		"cost" 190000
+		"operating costs" 1267
+		"maintenance costs" 633
 		"shields" 600
 		"hull" 1000
 		"required crew" 1
@@ -2960,6 +3066,8 @@ ship "Star Queen"
 	attributes
 		category "Transport"
 		"cost" 5500000
+		"operating costs" 36667
+		"maintenance costs" 18333
 		"shields" 4100
 		"hull" 2200
 		"required crew" 41
@@ -3018,6 +3126,8 @@ ship "Surveillance Drone"
 		licenses
 			Navy
 		"cost" 50000
+		"operating costs" 333
+		"maintenance costs" 167
 		"hull" 300
 		"automaton" 1
 		"mass" 15
@@ -3051,6 +3161,8 @@ ship "Vanguard"
 	attributes
 		category "Heavy Warship"
 		"cost" 7200000
+		"operating costs" 48000
+		"maintenance costs" 24000
 		"shields" 9800
 		"hull" 6000
 		"required crew" 23
@@ -3109,6 +3221,8 @@ ship "Wasp"
 	attributes
 		category "Interceptor"
 		"cost" 400000
+		"operating costs" 2667
+		"maintenance costs" 1333
 		"shields" 1500
 		"hull" 500
 		"required crew" 1

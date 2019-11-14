@@ -15,6 +15,8 @@ ship "Marauder Fury"
 	attributes
 		category "Interceptor"
 		"cost" 750000
+		"operating costs" 7500
+		"maintenance costs" 3750
 		"shields" 3000
 		"hull" 600
 		"required crew" 1
@@ -97,7 +99,9 @@ ship "Lampyrid-Class Transport"
 	thumbnail "thumbnail/lampyrid"
 	attributes
 		category "Heavy Freighter"
-		cost 2760000
+		"cost" 2760000
+		"operating costs" 27600
+		"maintenance costs" 13800
 		"shields" 5400
 		"hull" 4400
 		"required crew" 5

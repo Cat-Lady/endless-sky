@@ -15,6 +15,8 @@ ship "Marauder Arrow"
 	attributes
 		category "Interceptor"
 		"cost" 1320000
+		"operating costs" 8800
+		"maintenance costs" 4400
 		"shields" 2300
 		"hull" 500
 		"required crew" 2
@@ -118,6 +120,8 @@ ship "Marauder Bounder"
 	attributes
 		category "Interceptor"
 		"cost" 1250000
+		"operating costs" 8333
+		"maintenance costs" 4167
 		"shields" 2500
 		"hull" 700
 		"required crew" 2
@@ -231,6 +235,8 @@ ship "Marauder Falcon"
 	attributes
 		category "Heavy Warship"
 		"cost" 13900000
+		"operating costs" 92667
+		"maintenance costs" 46333
 		"shields" 14100
 		"hull" 4100
 		"required crew" 43
@@ -385,6 +391,8 @@ ship "Marauder Firebird"
 	attributes
 		category "Medium Warship"
 		"cost" 4100000
+		"operating costs" 27333
+		"maintenance costs" 13667
 		"shields" 7000
 		"hull" 3000
 		"required crew" 10
@@ -503,6 +511,8 @@ ship "Marauder Leviathan"
 	attributes
 		category "Heavy Warship"
 		"cost" 10800000
+		"operating costs" 72000
+		"maintenance costs" 36000
 		"shields" 16000
 		"hull" 5500
 		"required crew" 48
@@ -650,6 +660,8 @@ ship "Marauder Manta"
 	attributes
 		category "Medium Warship"
 		"cost" 3740000
+		"operating costs" 24933
+		"maintenance costs" 12467
 		"shields" 6500
 		"hull" 1750
 		"required crew" 7
@@ -779,6 +791,8 @@ ship "Marauder Quicksilver"
 	attributes
 		category "Light Warship"
 		"cost" 1200000
+		"operating costs" 8000
+		"maintenance costs" 4000
 		"shields" 3500
 		"hull" 900
 		"required crew" 4
@@ -881,6 +895,8 @@ ship "Marauder Raven"
 	attributes
 		category "Light Warship"
 		"cost" 2750000
+		"operating costs" 18333
+		"maintenance costs" 9167
 		"shields" 5200
 		"hull" 1600
 		"required crew" 7
@@ -992,6 +1008,8 @@ ship "Marauder Splinter"
 	attributes
 		category "Medium Warship"
 		"cost" 3400000
+		"operating costs" 22667
+		"maintenance costs" 11333
 		"shields" 5700
 		"hull" 1950
 		"required crew" 8
