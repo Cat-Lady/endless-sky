@@ -79,6 +79,18 @@ ship "Argosy" "Argosy (Turret)"
 		"Hyperdrive"
 
 
+ship "Argosy" "Argosy (Flamethrower Turret)"
+	outfits
+		"Flamethrower Turret" 2
+		"Fission Reactor"
+		"LP072a Battery Pack"
+		"D41-HY Shield Generator"
+		"Outfits Expansion"
+		"Greyhound Plasma Thruster"
+		"Impala Plasma Steering"
+		"Hyperdrive"
+
+
 
 ship "Arrow" "Arrow (Hai)"
 	outfits

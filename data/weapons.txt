@@ -650,6 +650,48 @@ effect "flamethrower hit"
 	"velocity scale" .4
 
 
+outfit "Flamethrower Turret"
+	category "Turrets"
+	"cost" 500000
+	"operating costs" 3333
+	"maintenance costs" 1667
+	thumbnail "outfit/flamethrower turret"
+	"mass" 36
+	"outfit space" -36
+	"weapon capacity" -36
+	"turret mounts" -1
+	"required crew" 1
+	"fuel capacity" 100
+	weapon
+		sprite "effect/explosion/small"
+			"frame rate" 60
+			"no repeat"
+		sound "flamethrower"
+		icon "icon/flamethrower"
+		"submunition" "Flamethrower Turret Projectile"
+		"inaccuracy" 12
+		"velocity" 9
+		"lifetime" 5
+		"reload" 1
+		"firing energy" .25
+		"firing fuel" .5
+		"firing heat" 4
+	description "The turret-mounted flamethrower represents the epitome of Free Worlds creative extravagance. So great are its fuel requirements that it comes with a standard fuel pod pre-installed. Smaller ships which lack powerful cooling systems should stay out of range at all costs."
+
+outfit "Flamethrower Turret Projectile"
+	weapon
+		sprite "projectile/flamethrower"
+			"frame rate" 17
+			"random start frame"
+		sound "plasma"
+		"hit effect" "flamethrower hit"
+		"die effect" "flamethrower die"
+		"inaccuracy" 20
+		"lifetime" 22
+		"shield damage" 1.6
+		"hull damage" 1.4
+
+
 outfit "Meteor Missile"
 	category "Ammunition"
 	"cost" 500
@@ -1144,7 +1186,7 @@ outfit "Gatling Gun Ammo"
 	"mass" .002
 	"gatling round capacity" -1
 	"unplunderable" 1
-	description "This simple cartridge is the ammunition for the Gatling Gun, with a projectile of depleted nuclear fuel or an illuminated tracer round. Since this ammunition is primarily manufactured on pirate worlds by slave children in poor working conditions, muzzle velocity can vary by up to 30%, and tracer distribution is seldom uniform."
+	description "This simple cartridge is the ammunition for the Gatling Gun, with a projectile of depleted nuclear fuel or an illuminated tracer round. Gatling Gun usage is most prominent in the "Galactic South", but the ammunition - being easy to produce, even using primitive equipment - is still manufactured everywhere in the galaxy, with varying adherence to standards. As a result, muzzle velocity can vary by up to 30%, and tracer distribution is seldom uniform."
 
 outfit "Bullet Boxes"
 	plural "Bullet Boxes"
